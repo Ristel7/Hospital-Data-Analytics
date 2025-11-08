@@ -1,0 +1,1001 @@
+Doctor_ID,Name,Specialization,Phone,Email,Department,Years_Experience,Shift,Salary,Status
+500,Sarah Robles,Pediatrics,19803798123,ashleywatson@example.net,Onco,4,Night,193497,On Leave
+501,Maria Brown,Neurology,8.23E+14,brandymooney@example.net,Ortho,37,Evening,136942,On Leave
+502,Laura Graves,Neurology,5789176893,powersdaniel@example.net,Cardio,25,Night,101679,Active
+503,Heather Sherman,Cardiology,7892492600,bridgeselizabeth@example.net,Ortho,31,Evening,74433,Active
+504,Ashley Taylor,Orthopedics,1.63E+14,uchan@example.net,Neuro,16,Morning,154329,Active
+505,Elizabeth Wyatt,Oncology,5.36E+13,amy12@example.net,Cardio,1,Evening,166711,Active
+506,Clarence Gutierrez,Orthopedics,3295204566,tracyjones@example.net,Neuro,19,Evening,128225,Active
+507,Aaron Jones,Orthopedics,5318672384,walkerlori@example.org,Pedia,27,Evening,164157,On Leave
+508,Francisco Parker,Pediatrics,9977893157,davidchen@example.com,Onco,27,Evening,146577,On Leave
+509,Kelly Thomas,Orthopedics,1.45E+14,kevincarter@example.org,Ortho,11,Evening,177109,Active
+510,Sarah Berry,Neurology,1.86E+14,john72@example.com,Cardio,30,Night,194212,On Leave
+511,Dennis Dalton,Oncology,3.94E+13,nguyenandrea@example.net,Onco,18,Evening,67644,Active
+512,Randy Soto,Orthopedics,4939566149,ashley37@example.com,Onco,2,Morning,155167,Active
+513,Jonathan Gray,Neurology,9.56E+13,vschroeder@example.net,Ortho,37,Evening,120900,On Leave
+514,Jody Morrison,Pediatrics,6.68E+13,johnsondavid@example.net,Ortho,37,Night,139913,On Leave
+515,Mary Moss,Orthopedics,6.22E+13,rmartinez@example.com,Neuro,27,Evening,165602,On Leave
+516,Jessica Hensley,Orthopedics,3.77E+14,meredithalexander@example.net,Ortho,15,Evening,73351,Active
+517,James Oliver,Orthopedics,8.85E+12,crawfordjohn@example.org,Cardio,13,Morning,69665,On Leave
+518,Mikayla Sims,Pediatrics,19346500549,erin83@example.org,Ortho,8,Evening,51505,Active
+519,Brian Holloway,Neurology,5592834277,hillnatalie@example.org,Cardio,18,Night,55002,On Leave
+520,Carl Mejia,Orthopedics,7.94E+14,qbarker@example.com,Ortho,35,Morning,64322,On Leave
+521,Alexander Lee,Orthopedics,3752985523,fthomas@example.org,Onco,31,Night,165755,Active
+522,Lindsay Le,Orthopedics,8245921724,joseph83@example.net,Pedia,5,Night,114366,Active
+523,Tammy Miller,Oncology,5.04E+13,tanya09@example.com,Onco,21,Morning,115316,On Leave
+524,Jason Martinez,Oncology,6847386634,hcox@example.org,Cardio,35,Night,194868,On Leave
+525,Andrew Wood,Cardiology,7544600738,dakota20@example.net,Pedia,26,Night,147725,Active
+526,Michael Madden,Cardiology,2.45E+13,frysean@example.org,Onco,5,Evening,167959,Active
+527,Michael Cline,Oncology,7238836792,williamsmegan@example.com,Cardio,6,Night,107819,On Leave
+528,Zachary Powell,Pediatrics,3.61E+12,youngbrittany@example.com,Cardio,17,Evening,70892,On Leave
+529,Brett Mitchell,Orthopedics,2633035907,lawrenceanthony@example.org,Ortho,13,Night,160320,On Leave
+530,Michael Mcdonald,Cardiology,1.58E+13,lindsaywaller@example.org,Cardio,33,Night,187336,On Leave
+531,Barbara Richards,Cardiology,1.49E+14,tbishop@example.net,Onco,10,Evening,160646,On Leave
+532,Timothy Anderson,Neurology,6155888021,catherine07@example.net,Onco,16,Evening,136183,On Leave
+533,John Kelly,Oncology,5.34E+12,zimmermanmichael@example.net,Cardio,4,Morning,82507,On Leave
+534,Anita Ray MD,Pediatrics,2697390035,johnpierce@example.net,Neuro,38,Morning,76049,Active
+535,Andrew Esparza,Orthopedics,5537423553,clarkdouglas@example.net,Ortho,10,Morning,63404,On Leave
+536,Cynthia Hall,Neurology,17476367497,dickersondesiree@example.net,Ortho,22,Evening,111804,On Leave
+537,Diane Khan,Orthopedics,785,avalenzuela@example.org,Pedia,1,Morning,56120,On Leave
+538,Jill Brown,Pediatrics,6.75E+13,brandon84@example.org,Cardio,1,Morning,135117,Active
+539,Michelle Simon,Cardiology,6.42E+13,dsanchez@example.org,Onco,6,Morning,170880,On Leave
+540,Samantha Lopez,Pediatrics,5.94E+14,hamiltonrichard@example.org,Onco,22,Morning,106797,On Leave
+541,William Kennedy,Cardiology,1.77E+13,burnstara@example.org,Cardio,32,Night,76467,Active
+542,Melissa Lawson,Cardiology,5.28E+12,tony84@example.com,Ortho,15,Morning,108648,On Leave
+543,Stephanie Phelps,Neurology,7.01E+12,mooredavid@example.com,Ortho,19,Evening,85644,On Leave
+544,Linda Conway,Cardiology,9677375689,kelseyweber@example.net,Onco,24,Night,190103,On Leave
+545,Joseph Smith,Oncology,5.36E+14,abigailmarsh@example.net,Pedia,21,Morning,187287,On Leave
+546,Linda Black,Orthopedics,1.80E+15,davisjoseph@example.org,Ortho,8,Night,180040,On Leave
+547,Jessica Anderson,Pediatrics,6977712741,andersonmichael@example.org,Cardio,33,Evening,130657,On Leave
+548,Kristen Mccarthy,Pediatrics,9069022097,ktucker@example.org,Onco,27,Morning,147331,On Leave
+549,Linda Meza,Cardiology,2366999895,lisamccullough@example.com,Neuro,13,Night,116047,Active
+550,Billy Valenzuela,Orthopedics,3978499766,austinrobin@example.net,Pedia,31,Morning,104328,On Leave
+551,Mario White,Neurology,6.15E+14,tallen@example.org,Pedia,4,Morning,192298,On Leave
+552,Amber Dodson,Orthopedics,7613186963,tsmith@example.net,Cardio,24,Evening,176469,Active
+553,Rebecca Sloan,Pediatrics,9.30E+12,teresapalmer@example.org,Ortho,1,Evening,174067,On Leave
+554,John Williams,Cardiology,1.88E+15,stephaniedaugherty@example.org,Pedia,7,Night,81451,On Leave
+555,Karen Smith,Neurology,4325081662,lewismatthew@example.org,Cardio,38,Morning,170983,On Leave
+556,Christopher Wells,Orthopedics,1.55E+13,woodslisa@example.org,Neuro,25,Night,112566,Active
+557,Kimberly Hernandez,Cardiology,2264893144,gabriella09@example.org,Pedia,17,Evening,150148,Active
+558,Lori Allen,Oncology,6.81E+12,morrisonamanda@example.net,Cardio,21,Morning,161588,Active
+559,Thomas Sweeney,Pediatrics,8287715243,elizabeth02@example.net,Neuro,18,Morning,128989,Active
+560,Dennis Berger,Neurology,1.96E+14,rodriguezcurtis@example.com,Neuro,36,Evening,130038,On Leave
+561,David Wallace,Neurology,1.79E+15,clayton27@example.org,Neuro,1,Evening,143778,Active
+562,Heather Reed,Neurology,4.08E+14,bryantcarla@example.com,Onco,14,Morning,171399,Active
+563,Ashley Thompson,Pediatrics,9.18E+14,megan37@example.com,Neuro,32,Morning,198386,Active
+564,Bradley Mckee,Neurology,9.74E+14,alexander09@example.com,Ortho,18,Night,143708,Active
+565,Sarah Bishop,Neurology,9884603844,randall06@example.com,Pedia,22,Morning,84319,On Leave
+566,Timothy Fischer,Pediatrics,1.92E+14,johnthomas@example.com,Pedia,5,Evening,113209,Active
+567,Rebecca Foley,Orthopedics,6973977014,smithheather@example.com,Onco,21,Night,92688,Active
+568,Jennifer Ashley,Neurology,8.20E+12,brian78@example.com,Cardio,25,Evening,125350,On Leave
+569,Kimberly Ayala,Oncology,1.67E+15,stephenspencer@example.com,Neuro,16,Night,152691,On Leave
+570,Eduardo Taylor,Orthopedics,1.46E+13,lori90@example.org,Pedia,23,Morning,107920,Active
+571,Jordan Mitchell,Neurology,6.69E+13,wallacepaula@example.net,Neuro,6,Night,195776,Active
+572,Christopher Johnson,Orthopedics,1.98E+13,cynthia26@example.com,Neuro,14,Morning,83779,On Leave
+573,Brenda Watson,Pediatrics,1.28E+15,tiffanyswanson@example.org,Cardio,27,Evening,194795,Active
+574,Brianna Richards,Oncology,6284587875,belljeanette@example.org,Onco,20,Night,185364,On Leave
+575,Isaiah Horne,Pediatrics,1.53E+13,petersonrussell@example.com,Onco,3,Morning,123278,On Leave
+576,Willie Mahoney,Oncology,1.96E+13,alexmitchell@example.com,Cardio,10,Night,86142,On Leave
+577,Emily Vazquez,Cardiology,4152608042,gina48@example.net,Pedia,1,Night,111428,On Leave
+578,Michelle Le,Neurology,2.48E+14,anthony69@example.com,Ortho,24,Night,50548,On Leave
+579,Billy Morse,Neurology,2.98E+14,qcarter@example.net,Ortho,18,Evening,112132,On Leave
+580,Dwayne Baker,Oncology,4.67E+12,richardstevens@example.com,Pedia,16,Evening,58366,On Leave
+581,Ronald Hernandez,Pediatrics,2.60E+13,jacqueline22@example.org,Cardio,14,Evening,115016,On Leave
+582,Roy Gordon,Neurology,9203566814,coopertracy@example.org,Neuro,2,Night,197564,Active
+583,Carrie Lane,Pediatrics,1.80E+15,manningashley@example.org,Cardio,6,Morning,103325,Active
+584,Joel Ford,Orthopedics,3419474129,amberbeltran@example.org,Neuro,21,Morning,175130,On Leave
+585,Jessica Mcintosh,Neurology,9.98E+14,mcknightdaniel@example.com,Neuro,4,Morning,94932,Active
+586,Samantha Sanchez,Oncology,1.48E+14,rhonda93@example.net,Onco,13,Evening,103736,Active
+587,Richard Huber,Oncology,7123957078,johngoodman@example.com,Ortho,36,Morning,116414,Active
+588,Tammy Mcbride,Pediatrics,4.82E+12,jordanwhite@example.com,Pedia,29,Evening,141261,On Leave
+589,Brian Mitchell,Pediatrics,4939951482,davidkirk@example.com,Ortho,37,Evening,141955,On Leave
+590,Nancy Miller,Oncology,9.49E+12,ritterjohn@example.com,Ortho,13,Night,96511,Active
+591,Anthony Bennett,Cardiology,9.85E+13,mnorris@example.net,Onco,32,Night,70220,Active
+592,Julie Hall,Orthopedics,1.75E+14,angela76@example.com,Neuro,35,Evening,94531,On Leave
+593,Melanie Martinez,Pediatrics,8.75E+12,amandacoleman@example.net,Onco,4,Night,107403,Active
+594,Andrew Wong,Orthopedics,8159537116,penajoshua@example.org,Neuro,28,Night,52976,On Leave
+595,Anthony Turner,Pediatrics,1.29E+15,ybrown@example.net,Cardio,15,Night,181070,On Leave
+596,Leah Reese,Cardiology,16113059831,kevin98@example.org,Onco,12,Morning,59650,Active
+597,Jamie Willis,Cardiology,1.99E+14,samuel51@example.org,Onco,38,Evening,72310,Active
+598,Jillian Gross PhD,Orthopedics,1.86E+13,shirleylara@example.net,Onco,18,Night,135478,On Leave
+599,Sarah Whitney,Orthopedics,4189103918,payneamber@example.net,Onco,37,Evening,116161,Active
+600,Dr. Lisa Garcia,Neurology,8.43E+14,kboyer@example.org,Pedia,7,Morning,183198,Active
+601,Joan Brown,Oncology,2248019563,ramirezjoyce@example.net,Onco,8,Night,138744,Active
+602,Sarah Russell,Cardiology,2862156190,rhodge@example.com,Onco,14,Night,182220,Active
+603,Christine Jones,Pediatrics,9175176930,jasonmcguire@example.org,Ortho,38,Morning,67485,Active
+604,Carla Terrell,Orthopedics,1.29E+13,louis64@example.com,Neuro,12,Night,144706,Active
+605,Adrian Marks,Oncology,1.74E+14,shall@example.net,Onco,6,Night,52021,Active
+606,Katherine Salinas,Cardiology,2277403902,lgonzalez@example.net,Pedia,37,Morning,120789,On Leave
+607,Jessica Allison,Orthopedics,2127346900,fernandezmichele@example.org,Neuro,24,Morning,196061,Active
+608,Paul Li,Pediatrics,6.09E+14,jray@example.org,Neuro,31,Evening,134768,Active
+609,Wanda Graham,Neurology,5.91E+14,ericyoung@example.com,Pedia,12,Morning,108631,Active
+610,Mark Campbell,Neurology,1.36E+14,donaldgutierrez@example.net,Onco,27,Morning,114898,On Leave
+611,Karen Schneider,Oncology,1.85E+15,jacksonjacob@example.net,Pedia,20,Night,164580,Active
+612,Connor Sanchez,Cardiology,7.38E+13,luis93@example.net,Cardio,9,Evening,192429,On Leave
+613,Travis Cole,Cardiology,1.73E+13,jwalker@example.com,Cardio,28,Evening,51150,Active
+614,Stanley Martin,Pediatrics,6.60E+13,fordalex@example.org,Onco,2,Morning,119281,Active
+615,Heidi Turner,Orthopedics,3.01E+14,laura29@example.com,Neuro,35,Morning,135713,On Leave
+616,Jesse Thomas,Orthopedics,6036852296,jonathangreene@example.org,Pedia,18,Morning,116937,On Leave
+617,Alan Armstrong,Cardiology,1.37E+15,jeremyward@example.org,Neuro,27,Morning,63326,On Leave
+618,Michelle Diaz MD,Cardiology,2094944660,georgecastro@example.net,Neuro,2,Evening,179569,Active
+619,Andrea Hill,Pediatrics,1.42E+15,robertthompson@example.net,Onco,10,Morning,189187,Active
+620,Mary Harrell,Cardiology,3629303236,jamestaylor@example.net,Neuro,38,Evening,135889,Active
+621,Kristina Morales,Cardiology,8.47E+12,heather56@example.org,Cardio,13,Evening,172916,Active
+622,Aaron Campbell,Cardiology,1.20E+13,mariabray@example.com,Cardio,26,Morning,64379,Active
+623,John Jenkins,Oncology,5.43E+14,emmahobbs@example.org,Pedia,17,Night,62960,On Leave
+624,Patrick Higgins,Orthopedics,3405033717,robertsjennifer@example.org,Pedia,25,Morning,168752,On Leave
+625,Jeff Anderson,Cardiology,15253935392,hwatts@example.net,Onco,35,Night,154856,Active
+626,Dylan Sawyer,Pediatrics,8175253209,bassvirginia@example.net,Pedia,26,Morning,57727,On Leave
+627,Anna Bailey,Oncology,2.88E+13,jeremiahfox@example.com,Ortho,9,Morning,180566,On Leave
+628,Richard Conrad,Orthopedics,9198235067,eedwards@example.com,Pedia,2,Evening,150800,Active
+629,Mr. Christopher Skinner,Pediatrics,1.69E+13,carolynalvarez@example.org,Ortho,12,Morning,173334,Active
+630,Charles Ortiz,Pediatrics,5.94E+14,tvargas@example.net,Ortho,30,Morning,138406,On Leave
+631,Vicki Webb,Oncology,5.04E+13,katherine93@example.com,Onco,17,Morning,157397,On Leave
+632,Joseph Carter,Oncology,6.32E+14,alisonrodriguez@example.org,Onco,33,Evening,83725,On Leave
+633,Evan Schwartz,Oncology,8.06E+13,bradleyperez@example.net,Pedia,39,Evening,102225,Active
+634,Nicholas Smith,Cardiology,3144523108,dodsontiffany@example.net,Onco,2,Morning,137948,On Leave
+635,Roy Richardson,Pediatrics,3387613233,jennifer80@example.com,Neuro,7,Evening,65100,Active
+636,Ronald Rodriguez,Pediatrics,8834318243,crystalellis@example.org,Cardio,4,Morning,111287,Active
+637,Vanessa Allen,Oncology,4.99E+14,aliciamoore@example.com,Cardio,13,Morning,97427,On Leave
+638,Matthew Munoz,Cardiology,4403411728,brianrose@example.org,Pedia,39,Night,184943,On Leave
+639,Adam Roberts,Orthopedics,3817881498,chelseajones@example.com,Neuro,25,Morning,174550,On Leave
+640,Anna Burke,Pediatrics,1.88E+13,jessica55@example.org,Onco,28,Night,162572,On Leave
+641,Carrie Roberts,Pediatrics,1.77E+13,ashlee89@example.org,Onco,17,Morning,82218,On Leave
+642,Brandon Martin,Pediatrics,5194924204,nchen@example.org,Cardio,35,Night,146934,On Leave
+643,Rachel Hardy,Neurology,4.60E+13,schmidtronald@example.com,Neuro,14,Night,80648,Active
+644,John Donaldson,Neurology,7026361072,ericrubio@example.net,Ortho,19,Evening,135041,Active
+645,Mark Sanchez,Cardiology,1.52E+14,kmedina@example.org,Cardio,38,Night,197817,On Leave
+646,Amber Shah,Pediatrics,7.50E+14,martinezdarryl@example.org,Ortho,11,Morning,117495,On Leave
+647,James Farrell,Neurology,6233555847,simmonsstacey@example.org,Cardio,29,Morning,92443,Active
+648,Lauren Vaughn,Neurology,3427746852,owenvictoria@example.com,Neuro,13,Night,97445,On Leave
+649,Cody Evans,Pediatrics,4.14E+12,bmartinez@example.net,Pedia,32,Morning,63425,Active
+650,Nicole Anderson,Orthopedics,2.68E+12,cory19@example.com,Cardio,8,Evening,112655,Active
+651,Katherine Morrow,Oncology,7.60E+13,xwhite@example.com,Cardio,1,Evening,77635,On Leave
+652,Richard Freeman,Cardiology,1.67E+15,qhernandez@example.net,Neuro,27,Night,174702,On Leave
+653,Richard James,Neurology,9.16E+13,vserrano@example.org,Pedia,24,Evening,62688,On Leave
+654,Vincent Greene,Neurology,6862031786,jeremy01@example.net,Pedia,27,Night,78846,On Leave
+655,Crystal Strong,Pediatrics,1.50E+14,taramorse@example.org,Pedia,31,Night,101056,Active
+656,Thomas Collins,Oncology,7.01E+13,tonyalane@example.net,Cardio,39,Evening,196394,Active
+657,Amber Pope,Cardiology,1.33E+15,kmorrison@example.net,Pedia,14,Morning,132441,On Leave
+658,Jacqueline Clark,Neurology,6.47E+14,lauren38@example.org,Cardio,39,Morning,198285,Active
+659,Kathy Jordan,Oncology,4.18E+12,qwiley@example.com,Onco,39,Morning,60144,Active
+660,Timothy Edwards,Cardiology,9674619214,ehall@example.com,Neuro,7,Morning,117514,On Leave
+661,Nicole Church,Oncology,1.84E+15,stephen97@example.org,Ortho,31,Morning,107341,Active
+662,Amanda Reed,Cardiology,9115790575,hburton@example.org,Pedia,6,Night,114472,On Leave
+663,Amanda Brown,Pediatrics,4064661896,ericday@example.com,Pedia,29,Morning,59035,On Leave
+664,Danielle Hunter,Cardiology,3846000234,fordjill@example.net,Pedia,15,Morning,182456,On Leave
+665,Corey Harris,Pediatrics,3.05E+13,conleyelizabeth@example.com,Neuro,10,Night,147231,Active
+666,Lisa Holden,Oncology,1.98E+14,megan54@example.net,Pedia,35,Morning,105186,On Leave
+667,Justin Martinez,Orthopedics,7.41E+13,christopherdoyle@example.org,Cardio,20,Evening,93421,Active
+668,Shannon Alvarez,Cardiology,17279570654,antonio11@example.net,Neuro,12,Evening,172207,Active
+669,Tina George,Cardiology,3079077819,kaylagilbert@example.org,Cardio,24,Evening,174325,On Leave
+670,David Mejia,Neurology,1.45E+14,vmcclain@example.org,Cardio,5,Evening,71515,On Leave
+671,Jared Hill,Cardiology,1.20E+14,joshuahughes@example.com,Cardio,1,Morning,115793,On Leave
+672,Tyler Gaines,Orthopedics,9489809843,jeffreymorgan@example.org,Cardio,11,Morning,91317,On Leave
+673,Benjamin Reynolds,Pediatrics,3713722107,castrojoy@example.org,Pedia,13,Morning,67894,Active
+674,Hannah Scott,Cardiology,1.29E+13,rodriguezvalerie@example.net,Pedia,38,Morning,168209,Active
+675,Yvonne Johnson,Pediatrics,8032909500,millerjasmine@example.com,Onco,13,Morning,107464,Active
+676,Carmen Pope,Cardiology,1.48E+14,andersonralph@example.com,Ortho,17,Evening,161597,Active
+677,Jamie Smith,Oncology,3.30E+14,matthew26@example.net,Cardio,7,Night,89402,Active
+678,Angela Davidson,Neurology,12572420699,xmacias@example.net,Ortho,39,Morning,113312,Active
+679,Kathleen Boone,Oncology,5.86E+13,robert30@example.com,Pedia,26,Evening,97596,On Leave
+680,Crystal Diaz,Neurology,3182666533,maldonadojohn@example.net,Cardio,1,Morning,88108,Active
+681,Christine Nelson,Orthopedics,3.66E+14,tylerfoster@example.org,Pedia,23,Evening,64220,Active
+682,Shelby Edwards,Neurology,5.22E+13,wmartinez@example.net,Ortho,32,Evening,185673,On Leave
+683,Susan Ross,Neurology,5422819529,qthompson@example.org,Cardio,36,Night,77220,Active
+684,Douglas Hill,Neurology,6885364061,sarah36@example.net,Cardio,36,Morning,71606,Active
+685,Lisa Flores,Neurology,6609878076,jasonbaker@example.com,Ortho,24,Night,144881,On Leave
+686,Matthew Jacobs,Pediatrics,1.58E+13,kyle45@example.com,Ortho,36,Morning,50388,Active
+687,Christine George,Cardiology,14066094318,blairamy@example.org,Onco,1,Night,88312,Active
+688,Andrew Tran,Neurology,4.90E+12,xfritz@example.com,Ortho,33,Morning,59234,On Leave
+689,Christine Medina,Cardiology,5.90E+14,edwin88@example.net,Ortho,33,Evening,79589,On Leave
+690,Mr. Jared Potter,Pediatrics,7.65E+14,michaelwalls@example.com,Ortho,24,Night,198982,On Leave
+691,Alan Brown,Neurology,5627890701,phillipsmarcia@example.com,Pedia,24,Morning,60367,On Leave
+692,Anthony Burns,Cardiology,3.26E+13,vasquezkevin@example.org,Pedia,32,Morning,170226,On Leave
+693,Tami Lester,Oncology,1.39E+14,ronaldrice@example.net,Cardio,1,Morning,137945,On Leave
+694,Holly Cortez,Neurology,1.66E+13,jonesanthony@example.com,Onco,34,Morning,134959,On Leave
+695,Linda Rich,Neurology,1.73E+14,kevingregory@example.com,Cardio,29,Morning,129865,Active
+696,Donald Meyer,Cardiology,6.74E+14,penajacqueline@example.com,Cardio,23,Night,190391,On Leave
+697,Jose Peters,Neurology,9745628699,kleinisabella@example.com,Onco,24,Evening,104751,Active
+698,Michael Wallace,Cardiology,5.38E+12,ngeorge@example.org,Onco,4,Night,152825,Active
+699,William Stevens,Cardiology,6.26E+13,fordsarah@example.com,Cardio,30,Evening,181636,Active
+700,Kathryn Hurley,Cardiology,3433745206,dawsonvirginia@example.com,Pedia,35,Evening,93721,On Leave
+701,Thomas Taylor,Pediatrics,7734072369,johnsonrebekah@example.com,Neuro,24,Night,76156,Active
+702,Ryan Holloway MD,Oncology,3489496363,smithkim@example.net,Cardio,31,Morning,122447,Active
+703,Matthew Perkins,Cardiology,4.83E+13,leonardkimberly@example.com,Neuro,16,Morning,99260,Active
+704,Alyssa Carrillo,Neurology,1.34E+14,cuevasbradley@example.net,Onco,24,Night,179158,On Leave
+705,Douglas Lopez,Oncology,1.35E+13,kendrawolfe@example.com,Pedia,23,Night,112841,On Leave
+706,Michelle Lopez,Pediatrics,3837695037,christy68@example.net,Onco,8,Morning,68789,Active
+707,Sharon Price,Oncology,3.37E+12,hutchinsonjessica@example.net,Neuro,29,Morning,68158,Active
+708,David Martin,Pediatrics,5624929787,bryan88@example.org,Pedia,4,Night,96104,Active
+709,David Conley,Oncology,1.22E+14,hannahthomas@example.org,Neuro,22,Morning,179114,Active
+710,Megan Lyons,Cardiology,1.27E+14,mckinneytina@example.net,Neuro,16,Morning,116196,On Leave
+711,Dennis Spears,Cardiology,7.42E+12,cesarsantiago@example.com,Onco,38,Night,177837,On Leave
+712,Lindsay Robinson,Orthopedics,8882142310,ghicks@example.org,Neuro,3,Night,73945,Active
+713,Valerie Roberts,Cardiology,1.38E+14,watsonkristy@example.net,Onco,39,Evening,75020,On Leave
+714,Timothy Fields,Cardiology,6517051733,jacobcontreras@example.net,Ortho,34,Night,143655,On Leave
+715,Anthony Duncan,Oncology,2.58E+14,isingleton@example.com,Neuro,16,Morning,90306,On Leave
+716,Dennis Rosales,Oncology,2112759635,smithstacey@example.org,Neuro,19,Morning,142815,Active
+717,Ross Bradley,Orthopedics,6.07E+14,hmiranda@example.com,Pedia,34,Morning,77174,Active
+718,Jamie Rojas,Oncology,8.11E+12,hgraham@example.org,Ortho,15,Evening,82059,On Leave
+719,Manuel Anderson,Pediatrics,1.55E+14,steineric@example.com,Cardio,7,Morning,124020,Active
+720,Jimmy Howe,Pediatrics,3208723252,iwhite@example.net,Neuro,10,Morning,160505,On Leave
+721,Shari Schultz,Cardiology,7567952111,tammypotter@example.org,Ortho,38,Evening,157305,Active
+722,Kathleen Rogers,Oncology,6.86E+12,robinsonpaul@example.net,Pedia,37,Evening,175070,Active
+723,Jennifer Mitchell,Oncology,4.83E+14,uramos@example.net,Ortho,22,Night,123856,On Leave
+724,April Gilbert,Cardiology,9.14E+13,matthewramos@example.com,Pedia,13,Morning,98625,Active
+725,Natalie Reyes,Pediatrics,4.28E+13,briandavis@example.com,Ortho,29,Evening,140135,On Leave
+726,Joshua Roberts,Orthopedics,5242564193,seanadkins@example.net,Cardio,13,Evening,167457,Active
+727,Danielle Moss,Pediatrics,2.28E+14,cthomas@example.net,Onco,34,Night,177205,On Leave
+728,Carolyn George,Oncology,5.34E+13,denise55@example.org,Onco,2,Night,145394,On Leave
+729,Laura Holt,Cardiology,3437563626,schneiderdawn@example.net,Ortho,15,Evening,101833,On Leave
+730,Joseph Stevenson,Oncology,7.73E+13,annemorales@example.com,Pedia,6,Evening,179405,On Leave
+731,Bonnie Meyer,Pediatrics,1.95E+15,richard48@example.com,Cardio,27,Night,126441,On Leave
+732,Lisa Daniel,Neurology,3.48E+14,wbradley@example.org,Ortho,19,Morning,52775,On Leave
+733,Robert Robinson,Orthopedics,6504173712,juliejones@example.net,Cardio,23,Night,78200,Active
+734,Joseph Wong,Oncology,3345,kevin02@example.net,Pedia,10,Morning,197910,Active
+735,Devin Jordan,Orthopedics,3.40E+13,scottryan@example.net,Neuro,34,Night,177172,Active
+736,Mrs. Kelly Fowler,Neurology,7315236556,mbridges@example.org,Cardio,2,Morning,113426,Active
+737,Richard Bailey,Neurology,2.00E+15,jaime07@example.net,Pedia,21,Night,171829,Active
+738,Tim Reid,Orthopedics,5.77E+14,david69@example.com,Neuro,4,Night,53262,Active
+739,Ruth Fritz,Oncology,4.70E+14,nicholas78@example.org,Onco,27,Evening,113600,Active
+740,Joanne Robinson,Oncology,1.98E+14,gonzalezlisa@example.org,Neuro,9,Evening,195782,Active
+741,Jacqueline Lozano,Orthopedics,2.25E+13,staceycrawford@example.com,Onco,24,Evening,176308,Active
+742,Laura Farmer,Oncology,1.32E+14,annettebradley@example.net,Ortho,24,Evening,123200,On Leave
+743,Christina Smith,Orthopedics,3879193652,meaganspencer@example.org,Neuro,11,Morning,95301,Active
+744,Eric Zuniga,Neurology,4716,hillkathy@example.com,Cardio,17,Evening,118175,Active
+745,Eric Reeves,Orthopedics,3857522121,anne08@example.net,Onco,39,Morning,122101,On Leave
+746,Daniel Davis,Neurology,1.66E+14,coffeykurt@example.com,Onco,22,Night,127386,Active
+747,James Booth,Neurology,1.30E+15,sean30@example.net,Ortho,39,Morning,157266,On Leave
+748,Erik Hoffman,Pediatrics,5.86E+14,houstonjoseph@example.net,Onco,15,Morning,182029,On Leave
+749,Chris Johnson,Orthopedics,2467898960,marksmith@example.com,Cardio,16,Night,76707,Active
+750,Robin Larson,Pediatrics,1.97E+14,eclark@example.net,Pedia,35,Morning,159060,Active
+751,John Lewis,Neurology,4806018455,randy02@example.org,Pedia,19,Night,70252,On Leave
+752,Valerie Wilson,Neurology,16233508128,eadams@example.com,Pedia,34,Morning,120706,On Leave
+753,Jennifer Hawkins,Pediatrics,9862113322,hjohnson@example.com,Pedia,5,Evening,184751,Active
+754,Maurice Richardson,Orthopedics,3133090516,ywilson@example.org,Neuro,4,Evening,159361,Active
+755,Annette Goodman,Pediatrics,9077123764,april43@example.com,Pedia,5,Night,60688,Active
+756,Michelle Roy,Cardiology,1.44E+14,kglover@example.com,Cardio,10,Morning,80232,Active
+757,Michael Phillips,Orthopedics,9.12E+13,jenniferguerrero@example.com,Ortho,34,Night,103594,On Leave
+758,Matthew Moss,Pediatrics,6.80E+14,janetwright@example.com,Ortho,20,Night,161091,On Leave
+759,Christopher Butler,Cardiology,5.56E+13,james52@example.org,Ortho,19,Night,91343,Active
+760,Robin Navarro,Pediatrics,1.80E+15,oschwartz@example.net,Pedia,8,Evening,166858,Active
+761,David Wilson,Orthopedics,4542299793,gjordan@example.com,Neuro,1,Evening,113370,Active
+762,Meghan White,Pediatrics,1.86E+15,christinavega@example.net,Pedia,34,Evening,101867,On Leave
+763,Leroy Rodriguez,Pediatrics,16706157763,gharvey@example.org,Pedia,25,Night,74500,Active
+764,Logan Evans,Cardiology,3.71E+12,leah21@example.com,Ortho,38,Morning,115077,On Leave
+765,Lisa Henderson,Orthopedics,1.69E+15,flowersmary@example.org,Cardio,9,Morning,66304,Active
+766,Kathryn Simpson,Orthopedics,5035759101,brownadam@example.net,Cardio,17,Evening,51538,On Leave
+767,Chad Wilkins,Pediatrics,3936247640,kristine62@example.net,Onco,25,Night,183838,Active
+768,Clifford Lewis,Orthopedics,4.63E+12,amanda12@example.org,Cardio,13,Morning,147191,On Leave
+769,Kelly Hubbard,Orthopedics,1.31E+15,schultztimothy@example.com,Onco,12,Evening,171646,Active
+770,Maria Gutierrez,Pediatrics,1.88E+13,lewismichael@example.com,Cardio,7,Evening,159906,Active
+771,Marvin Carter,Oncology,2.68E+14,tanyacolon@example.org,Pedia,18,Morning,78899,Active
+772,Jacob Barnes,Orthopedics,6158263380,ldillon@example.org,Cardio,24,Night,168225,On Leave
+773,Kathleen Kelley,Neurology,1.47E+15,hamiltonlauren@example.net,Pedia,35,Evening,87985,On Leave
+774,Debra Graham,Oncology,4.74E+14,paul02@example.net,Cardio,38,Morning,139060,Active
+775,Dr. Robert Keller,Cardiology,2.09E+12,lisa70@example.net,Cardio,22,Morning,73033,On Leave
+776,Karen Murphy,Cardiology,7932624521,jonathan12@example.com,Cardio,36,Evening,171211,Active
+777,Sean Stuart,Orthopedics,2.00E+13,dianachen@example.com,Onco,4,Evening,182572,Active
+778,Anthony Miller MD,Oncology,5.47E+13,eburnett@example.com,Neuro,30,Evening,191612,Active
+779,Joshua Cobb,Cardiology,1.93E+15,levinenathaniel@example.org,Onco,30,Night,54098,On Leave
+780,Christopher Smith,Oncology,1.72E+14,erinwest@example.com,Ortho,24,Morning,94404,Active
+781,Sylvia Baker,Pediatrics,9.16E+12,ashleyedwards@example.org,Neuro,27,Evening,60724,Active
+782,Walter Rivera,Pediatrics,1.59E+15,douglasmorris@example.com,Ortho,27,Morning,126543,On Leave
+783,Laura Morris,Cardiology,8008805660,meagan74@example.net,Neuro,36,Night,155703,On Leave
+784,Brittany Bryant,Cardiology,15837258070,rwallace@example.net,Pedia,39,Evening,174382,On Leave
+785,Melissa Walsh,Cardiology,4377377631,susanford@example.net,Onco,39,Night,70046,Active
+786,Robert Hall,Neurology,1.94E+14,burchcharles@example.net,Ortho,35,Morning,103961,On Leave
+787,Connie Rowe,Oncology,1.38E+15,john32@example.org,Neuro,18,Morning,177391,Active
+788,Joshua Buchanan,Orthopedics,2805780076,tclements@example.net,Cardio,31,Evening,106836,On Leave
+789,Timothy Chavez,Oncology,6.12E+14,xgamble@example.com,Onco,38,Evening,141267,Active
+790,Cassidy Hutchinson,Pediatrics,8969262244,amcclure@example.org,Ortho,21,Night,73822,Active
+791,Michelle Brown,Cardiology,1.74E+13,jacquelinebranch@example.com,Ortho,31,Evening,88786,On Leave
+792,William Williams,Neurology,4.92E+12,irhodes@example.com,Ortho,20,Night,184767,Active
+793,Cassandra Graham,Orthopedics,6.95E+12,sara52@example.org,Neuro,16,Evening,143456,On Leave
+794,Todd Garner,Neurology,5389100351,emilygibson@example.org,Pedia,33,Evening,94662,Active
+795,Taylor King,Neurology,2.78E+13,ihughes@example.net,Ortho,36,Evening,172262,Active
+796,Jennifer Anderson,Cardiology,1.37E+15,wdunn@example.org,Pedia,39,Night,169185,Active
+797,Megan Powell,Neurology,1.78E+13,jessica94@example.com,Pedia,19,Night,128705,On Leave
+798,Teresa Allen,Pediatrics,7.15E+12,reyesdustin@example.net,Onco,33,Evening,158105,Active
+799,Marissa Patton,Orthopedics,6.60E+13,elizabeth99@example.org,Cardio,21,Evening,112775,On Leave
+800,Breanna Zhang,Neurology,1.79E+13,joneal@example.net,Cardio,38,Evening,184273,On Leave
+801,Eileen Chase,Neurology,9.34E+13,gwade@example.org,Ortho,21,Evening,146755,On Leave
+802,Steven Schwartz,Pediatrics,8536500974,swalker@example.com,Ortho,30,Evening,193828,Active
+803,Cheryl Mccarthy,Orthopedics,5.66E+14,amunoz@example.net,Onco,16,Evening,159808,On Leave
+804,Dana Lyons,Pediatrics,5.22E+13,lindsey88@example.org,Neuro,23,Night,158222,On Leave
+805,Christopher Garcia,Orthopedics,9.95E+14,greyes@example.com,Pedia,8,Morning,65730,Active
+806,James Lewis,Oncology,2.26E+12,popelisa@example.com,Pedia,20,Evening,88105,Active
+807,Kimberly Mccarthy,Oncology,1.93E+13,warrenanna@example.com,Cardio,37,Morning,134327,Active
+808,Austin Bryant,Pediatrics,2.00E+15,marie81@example.net,Cardio,17,Morning,102395,On Leave
+809,Isaiah Daniel,Cardiology,9796842958,kevinperez@example.com,Onco,6,Night,102278,On Leave
+810,Jason Johnston,Orthopedics,6348639823,cfields@example.org,Neuro,5,Night,103220,On Leave
+811,Paul Summers,Cardiology,1.75E+15,moconnell@example.org,Cardio,1,Night,81544,On Leave
+812,Katherine Houston,Oncology,3178311708,phillip89@example.net,Ortho,33,Evening,121808,On Leave
+813,Valerie Evans,Cardiology,6.68E+12,alexferguson@example.org,Cardio,36,Night,60331,Active
+814,Dr. Allison Sharp,Oncology,2260,melinda24@example.com,Onco,9,Night,176692,On Leave
+815,Debbie Elliott,Oncology,14468058172,williamswilliam@example.net,Ortho,38,Evening,50461,On Leave
+816,Shannon Todd,Cardiology,4.93E+14,brittany44@example.com,Onco,10,Night,67914,On Leave
+817,Becky Swanson,Oncology,8965076884,juareznatasha@example.org,Ortho,29,Morning,180962,Active
+818,Jacqueline Thompson,Orthopedics,6.31E+14,laura17@example.net,Neuro,13,Morning,180429,Active
+819,Zachary Walsh,Pediatrics,1.50E+14,rdavis@example.com,Onco,27,Morning,116293,On Leave
+820,Anthony Duran,Cardiology,6799058800,thomaspamela@example.com,Ortho,4,Morning,78285,On Leave
+821,Donna Fitzgerald,Cardiology,4.95E+13,sabrinagutierrez@example.org,Neuro,27,Evening,148726,Active
+822,Charles Yang,Oncology,1.23E+14,ealvarado@example.org,Neuro,27,Night,61953,On Leave
+823,Elizabeth Sullivan,Oncology,5313099201,andersonrobert@example.com,Neuro,38,Evening,85382,On Leave
+824,Rebecca Rivera,Pediatrics,1.86E+15,youngmelissa@example.net,Cardio,37,Evening,98459,On Leave
+825,Jacqueline Perkins,Neurology,1.84E+15,omercado@example.org,Pedia,11,Morning,77048,Active
+826,Julie Kim,Oncology,1.92E+13,baxterrose@example.org,Ortho,2,Morning,199668,On Leave
+827,John Wallace,Orthopedics,6.54E+13,joshuapowell@example.net,Onco,35,Morning,116878,On Leave
+828,Mary Harris,Orthopedics,7795728823,donald33@example.com,Neuro,37,Morning,64244,Active
+829,Mrs. Alyssa Smith,Pediatrics,8.37E+14,hallmark@example.org,Neuro,5,Night,66503,Active
+830,Ashley Becker,Neurology,1.63E+14,williamsjenny@example.com,Ortho,13,Evening,127638,Active
+831,Angie Combs,Orthopedics,2.91E+13,gmolina@example.net,Cardio,35,Morning,147683,On Leave
+832,Joshua Smith,Cardiology,3448565639,jyoung@example.org,Cardio,3,Night,133211,On Leave
+833,Sarah Foley,Pediatrics,6.12E+13,torresalexander@example.com,Neuro,30,Morning,192527,Active
+834,Erica Bailey MD,Orthopedics,1.79E+14,robertgilmore@example.net,Cardio,8,Night,121395,On Leave
+835,Michael Wright,Cardiology,1.25E+14,richardbailey@example.com,Neuro,9,Morning,192141,On Leave
+836,Linda Perkins,Neurology,4.10E+13,danielle20@example.org,Neuro,23,Morning,152003,On Leave
+837,Erica Jackson,Cardiology,9445901578,elizabeth14@example.org,Ortho,26,Evening,118060,Active
+838,Brittany Turner,Oncology,1.49E+15,smithkristin@example.com,Onco,32,Morning,74631,On Leave
+839,Theresa Hudson,Oncology,2.60E+14,jonesdanielle@example.com,Neuro,24,Evening,154970,Active
+840,Andrea Ortiz,Orthopedics,1.92E+14,anthony24@example.com,Neuro,25,Night,181125,On Leave
+841,Debbie Mathis,Oncology,1.78E+15,patriciaklein@example.org,Pedia,29,Morning,61548,Active
+842,Meredith Fitzgerald,Orthopedics,1.40E+15,lisa85@example.com,Ortho,20,Evening,90635,On Leave
+843,Kimberly Brady,Pediatrics,7098069259,robinsonfelicia@example.net,Pedia,4,Evening,162078,On Leave
+844,Jody Williams,Pediatrics,7.98E+14,amysuarez@example.net,Pedia,25,Morning,198620,On Leave
+845,Kimberly Jensen,Orthopedics,2044755576,kimberly23@example.net,Ortho,11,Night,83919,Active
+846,Tiffany Hicks,Pediatrics,1.84E+15,adam59@example.org,Pedia,27,Night,172061,Active
+847,Larry Pierce,Pediatrics,1.68E+14,william75@example.org,Neuro,4,Night,182150,On Leave
+848,Jared Fowler,Orthopedics,8.37E+14,kathrynwilliams@example.org,Onco,39,Morning,111100,On Leave
+849,Matthew Torres,Cardiology,1.62E+14,eriley@example.net,Cardio,33,Morning,83687,Active
+850,Scott Castillo,Cardiology,1.23E+15,robertcastro@example.org,Pedia,9,Morning,57009,Active
+851,John Hayden,Neurology,4.84E+14,meyersgwendolyn@example.com,Ortho,31,Night,88230,Active
+852,Shawn Smith,Cardiology,8.04E+14,rgraham@example.net,Pedia,35,Night,191078,On Leave
+853,Vincent Horn,Oncology,2727030404,brandon69@example.com,Ortho,37,Evening,123339,Active
+854,Daniel Willis,Orthopedics,4.06E+13,paula50@example.net,Cardio,26,Morning,176119,On Leave
+855,Eric White,Neurology,9140,austinnavarro@example.com,Cardio,3,Night,175743,On Leave
+856,Linda Schneider,Cardiology,3.20E+13,deborah65@example.net,Neuro,29,Morning,166108,Active
+857,Todd Gomez,Neurology,7284619513,cdavis@example.org,Ortho,6,Night,177106,Active
+858,Julie Estrada,Orthopedics,8687677501,ccook@example.net,Pedia,28,Night,78755,Active
+859,Daniel Estes,Neurology,2.67E+12,jphillips@example.org,Pedia,19,Night,70411,Active
+860,Adam Hayes,Oncology,5854787559,gaineskenneth@example.org,Ortho,4,Evening,110833,On Leave
+861,Maxwell Baldwin,Orthopedics,7.68E+13,bryancampos@example.net,Onco,20,Morning,67285,Active
+862,Nicole Chapman,Pediatrics,18599969683,bradley89@example.com,Onco,21,Morning,128543,Active
+863,Cheryl Ramirez,Oncology,2.35E+12,alexanderrachel@example.com,Neuro,18,Night,159118,Active
+864,Steven Rollins,Neurology,1.30E+15,juancochran@example.com,Neuro,6,Evening,124917,On Leave
+865,Sarah Miller,Orthopedics,3.20E+14,rnelson@example.net,Cardio,16,Night,166419,On Leave
+866,Ryan Gordon,Orthopedics,1.96E+15,brockzoe@example.net,Ortho,16,Morning,188032,On Leave
+867,Jose Daniels,Neurology,5.52E+12,careykyle@example.net,Onco,16,Night,52820,Active
+868,Jerome Wyatt,Pediatrics,8013979792,brian68@example.org,Neuro,11,Evening,105712,Active
+869,Stacey Harris MD,Orthopedics,7359639301,crawfordsarah@example.net,Ortho,21,Night,163111,On Leave
+870,Mrs. Rachel Davis DDS,Cardiology,17553412278,meagan98@example.org,Pedia,3,Evening,170612,Active
+871,Joseph Nguyen,Orthopedics,2115202775,browntanya@example.net,Pedia,24,Night,193535,On Leave
+872,William Gross,Oncology,14104373261,ericksonjames@example.org,Onco,18,Night,198857,Active
+873,Danny Bryant,Cardiology,9.55E+12,megan17@example.com,Pedia,37,Evening,97765,Active
+874,Loretta Hood,Oncology,1.39E+15,alisonphelps@example.com,Pedia,25,Night,196699,On Leave
+875,Dr. Linda Williams,Orthopedics,1.49E+13,morgan04@example.net,Cardio,32,Evening,125878,Active
+876,Cheyenne Jarvis,Neurology,3376291430,markwilliams@example.net,Cardio,13,Morning,89120,Active
+877,Melanie Fuller,Pediatrics,4.29E+13,marccampos@example.net,Ortho,28,Evening,141453,Active
+878,Laurie Adams,Neurology,1.97E+15,lstokes@example.net,Onco,18,Morning,80202,Active
+879,Jonathan King,Orthopedics,4783066247,hayesmelissa@example.net,Neuro,4,Morning,101344,On Leave
+880,Nathan Taylor,Oncology,5.63E+14,michelle99@example.net,Onco,26,Morning,174321,Active
+881,Elizabeth Knox,Cardiology,9.61E+14,pcontreras@example.net,Cardio,39,Evening,125679,Active
+882,David Walker,Oncology,1.67E+15,riverapatricia@example.com,Cardio,15,Morning,156579,On Leave
+883,Alexis Coleman,Pediatrics,1.30E+14,simpsonwilliam@example.org,Neuro,28,Night,173913,On Leave
+884,Haley Bruce,Oncology,3.41E+14,katherine12@example.net,Neuro,37,Night,59839,On Leave
+885,Kendra Davis,Oncology,1.55E+14,helen25@example.com,Ortho,10,Night,148259,Active
+886,Patricia Martinez,Oncology,2.27E+13,washingtonkimberly@example.com,Cardio,13,Morning,112749,Active
+887,Cynthia Johnson,Pediatrics,7.64E+12,ymontoya@example.org,Onco,21,Night,59802,On Leave
+888,Heather Jones MD,Cardiology,5.25E+13,fthomas@example.com,Ortho,10,Evening,187511,Active
+889,Daniel Simon,Cardiology,2518193611,catherine70@example.org,Neuro,29,Morning,144901,On Leave
+890,Sarah Hernandez,Neurology,5218738359,edward21@example.org,Cardio,39,Night,184251,Active
+891,Vincent Atkins,Pediatrics,2212529427,bsmith@example.com,Cardio,24,Night,175884,Active
+892,Linda Miller,Pediatrics,14926787701,gary17@example.org,Cardio,35,Night,90682,Active
+893,Brooke Barnes,Cardiology,8765478129,patricia67@example.net,Onco,17,Evening,173302,On Leave
+894,Sarah Kelley,Orthopedics,6364115800,stephen45@example.org,Onco,32,Morning,90079,Active
+895,Melissa Wright,Orthopedics,9301,michaelbarton@example.com,Neuro,33,Evening,70180,On Leave
+896,Jennifer Bell,Neurology,7822628708,kcooley@example.org,Neuro,20,Evening,59986,On Leave
+897,Robert Bradley,Cardiology,3093686466,gmccormick@example.com,Onco,32,Morning,72554,Active
+898,Mrs. Stephanie Thomas,Cardiology,9.62E+12,michael52@example.com,Ortho,4,Morning,189323,Active
+899,Amber Mcdonald,Cardiology,6.34E+14,wlee@example.org,Pedia,28,Night,109748,Active
+900,Angela Crosby,Pediatrics,7.69E+14,jensenronald@example.org,Ortho,24,Night,97016,On Leave
+901,Matthew Juarez,Neurology,7.48E+13,ereyes@example.org,Neuro,11,Morning,104090,Active
+902,Roberto Stout,Orthopedics,6153629245,charlesewing@example.net,Neuro,13,Night,160194,On Leave
+903,Steven Donovan,Cardiology,6852836692,zwood@example.net,Ortho,3,Morning,112548,On Leave
+904,Christopher Lewis,Neurology,5.92E+12,diazanthony@example.com,Onco,7,Evening,83980,Active
+905,Katherine Morgan,Orthopedics,2.94E+12,adam72@example.org,Pedia,20,Night,127780,Active
+906,Amanda Williams,Oncology,9.60E+12,descobar@example.com,Pedia,20,Morning,175704,Active
+907,Lynn Baker,Orthopedics,14886671318,eperry@example.org,Neuro,27,Night,82882,Active
+908,Jacob Phillips,Cardiology,5.82E+14,donnamcneil@example.com,Cardio,9,Morning,146989,On Leave
+909,James Morris,Oncology,9.56E+14,evansdarlene@example.org,Neuro,10,Morning,79040,On Leave
+910,Andrew Garcia,Orthopedics,1.78E+14,sullivanlogan@example.com,Pedia,30,Evening,151803,On Leave
+911,Nicholas Bennett,Orthopedics,7.44E+12,tmathis@example.com,Onco,12,Morning,74413,On Leave
+912,Jade Gonzales,Pediatrics,8122197359,duaneperkins@example.com,Onco,7,Evening,174556,Active
+913,Veronica Hughes,Neurology,1.72E+14,bethsmith@example.com,Pedia,2,Morning,129528,On Leave
+914,Harold Wilkinson DDS,Oncology,3938117495,tdelgado@example.net,Pedia,27,Night,82304,On Leave
+915,Laurie Tate,Pediatrics,1.47E+14,gblanchard@example.net,Ortho,12,Morning,78153,On Leave
+916,Bryan Black,Pediatrics,7.09E+12,cunninghammichael@example.com,Onco,21,Night,104615,Active
+917,Angela Mcbride,Orthopedics,16396604472,melaniepreston@example.org,Cardio,24,Night,152448,Active
+918,Maria Russo,Neurology,6857940121,erin67@example.org,Onco,21,Morning,141000,On Leave
+919,Melissa Everett,Oncology,1.68E+13,benjamin49@example.com,Onco,24,Morning,177407,On Leave
+920,Danielle Larson,Cardiology,2864661115,bradshawmary@example.net,Onco,29,Morning,60116,Active
+921,Stephen Patterson,Pediatrics,7586622164,xjames@example.org,Ortho,12,Morning,62525,Active
+922,James Wade,Cardiology,1.90E+15,deanparker@example.org,Pedia,35,Night,82177,On Leave
+923,Kim Martin,Pediatrics,9446797870,randy18@example.net,Onco,36,Morning,171710,On Leave
+924,Larry Wade,Oncology,4.55E+14,ahart@example.com,Pedia,11,Night,172923,On Leave
+925,Renee Clarke,Cardiology,4.45E+14,lisa32@example.com,Cardio,22,Morning,100873,On Leave
+926,Mrs. Darlene Hickman,Pediatrics,3864690626,kathryncampbell@example.net,Pedia,2,Evening,124696,Active
+927,Catherine White,Oncology,2199410512,burkemichael@example.net,Neuro,30,Night,51412,Active
+928,Robert Lara,Oncology,8.76E+13,ysilva@example.org,Ortho,28,Night,150390,Active
+929,Zachary Davis,Cardiology,9695057622,youngderrick@example.com,Ortho,21,Night,97882,On Leave
+930,Sharon Moore,Cardiology,2613569862,emily48@example.org,Neuro,13,Night,178229,On Leave
+931,Jason Craig,Oncology,3963,allisonowens@example.org,Onco,3,Night,127662,Active
+932,Javier Perez,Neurology,5373691590,robertadkins@example.net,Cardio,10,Evening,169510,Active
+933,Kelli Boyd,Pediatrics,1.76E+13,xgonzalez@example.com,Neuro,15,Night,81250,On Leave
+934,Christian Miller,Orthopedics,2.60E+13,wperez@example.com,Onco,7,Night,116455,Active
+935,Susan Ramos,Neurology,7.67E+13,laurie25@example.org,Cardio,37,Morning,77523,Active
+936,Stephanie Lee,Neurology,6577651839,lisa92@example.com,Onco,34,Evening,192767,Active
+937,Caleb Archer,Pediatrics,6608180876,donaldsonjohn@example.net,Neuro,25,Night,104954,Active
+938,Donna Conley,Neurology,6232608126,lnelson@example.com,Cardio,17,Night,199270,Active
+939,Ryan Clark,Oncology,1.77E+13,janettrujillo@example.net,Pedia,26,Night,61412,On Leave
+940,Gina Lawrence,Cardiology,8097511366,snydersteve@example.com,Neuro,27,Morning,122734,On Leave
+941,Chad Thomas,Pediatrics,8646952950,hawkinsanthony@example.com,Onco,20,Night,166069,Active
+942,Tamara Floyd,Neurology,3.99E+14,ipayne@example.org,Pedia,13,Evening,72068,Active
+943,Douglas Williams,Oncology,8826667974,mia11@example.com,Ortho,16,Morning,147767,On Leave
+944,Rebecca Davis,Oncology,7.34E+14,joshua36@example.org,Cardio,20,Evening,91833,Active
+945,Dan Boyer,Neurology,7.06E+12,lisa62@example.com,Onco,34,Morning,122889,Active
+946,Emily Clark,Orthopedics,6.48E+12,ericdavidson@example.org,Ortho,31,Evening,163654,On Leave
+947,Dr. Pamela Bonilla,Pediatrics,3194009370,agiles@example.com,Pedia,35,Evening,104361,On Leave
+948,Melissa Gomez,Cardiology,4.16E+12,cathytaylor@example.org,Neuro,6,Morning,113547,On Leave
+949,Kathryn Davis,Pediatrics,1.34E+14,sharon50@example.org,Pedia,18,Evening,105637,Active
+950,Elijah Eaton,Pediatrics,6.02E+12,aschultz@example.org,Onco,19,Morning,141525,Active
+951,Lisa Richards,Cardiology,9302088537,brandon10@example.com,Ortho,25,Evening,121688,On Leave
+952,Kristin Serrano,Neurology,3.84E+13,gedwards@example.net,Onco,8,Evening,111883,Active
+953,Gary Frank,Orthopedics,9454244694,smithtimothy@example.net,Cardio,21,Night,197947,Active
+954,Seth Giles,Neurology,2736573729,xmalone@example.org,Neuro,17,Night,80774,On Leave
+955,Kelsey Lamb,Neurology,1.20E+15,wbyrd@example.org,Ortho,21,Night,155506,On Leave
+956,Amber Robinson,Neurology,18266126394,hayesmatthew@example.net,Ortho,12,Night,52542,On Leave
+957,Sarah Peters,Pediatrics,4.86E+12,fjones@example.net,Cardio,19,Morning,61289,On Leave
+958,Carlos Hobbs,Neurology,15218065465,shannonphillips@example.net,Ortho,26,Night,167240,Active
+959,Taylor Kaiser,Orthopedics,8454517950,wellsrodney@example.org,Ortho,9,Morning,152844,Active
+960,George Green,Oncology,1.62E+14,bakerdanielle@example.com,Pedia,12,Morning,160774,On Leave
+961,Tyler Reyes,Cardiology,3584422126,anthonytravis@example.net,Pedia,13,Evening,94667,On Leave
+962,Andrea Castillo,Neurology,1.60E+14,sdoyle@example.com,Neuro,14,Night,69739,On Leave
+963,Nicole Miller,Oncology,7599286772,rossdevin@example.org,Pedia,15,Evening,126412,Active
+964,James Simpson,Pediatrics,2329953632,imiller@example.com,Ortho,1,Morning,126950,Active
+965,Mr. Dakota Gilmore,Orthopedics,16472554172,haley73@example.org,Neuro,15,Morning,162642,Active
+966,Ryan Nichols,Orthopedics,7.36E+14,harringtonmatthew@example.com,Neuro,30,Night,96701,Active
+967,Arthur Mcdaniel,Neurology,18905657380,qherrera@example.net,Pedia,8,Morning,141928,Active
+968,Wendy Jones,Oncology,8944618963,brittany31@example.net,Cardio,31,Morning,147680,Active
+969,Angel Powers,Pediatrics,6.97E+13,ptrujillo@example.org,Neuro,9,Morning,180203,On Leave
+970,Robert Black,Neurology,1.41E+14,ronald46@example.net,Pedia,30,Morning,64098,Active
+971,Cynthia Rios,Cardiology,9347476952,smithcarl@example.com,Onco,24,Morning,107768,Active
+972,David Ray,Neurology,3.13E+13,caitlinbrewer@example.org,Neuro,5,Night,148907,On Leave
+973,Michelle Davis,Cardiology,4.80E+13,millercarolyn@example.net,Cardio,22,Morning,70674,On Leave
+974,John Black,Neurology,1.75E+13,jacksonjames@example.org,Neuro,9,Night,156995,On Leave
+975,Susan Moore,Neurology,9812704656,millerkenneth@example.com,Pedia,22,Morning,91638,On Leave
+976,Kristie James,Cardiology,1.40E+15,mariowallace@example.net,Ortho,38,Evening,81450,Active
+977,Keith Gilbert,Orthopedics,2.84E+13,matthewspeter@example.com,Pedia,24,Night,182693,Active
+978,Sheryl Hill,Neurology,1.59E+13,christinebender@example.com,Onco,30,Morning,125603,Active
+979,Ashley Freeman,Pediatrics,5547198699,xavierhuerta@example.com,Onco,32,Night,163297,Active
+980,Deborah Johnson,Cardiology,7.26E+14,amandacombs@example.com,Pedia,32,Morning,51652,On Leave
+981,Ashley Ramirez,Orthopedics,7079317675,christinamayer@example.com,Neuro,7,Evening,157467,Active
+982,Christina Mcpherson,Cardiology,4.54E+12,chamilton@example.org,Onco,13,Morning,90554,On Leave
+983,Kyle Simon,Oncology,6506494416,barbara75@example.org,Pedia,30,Evening,84778,On Leave
+984,Gary Davis,Cardiology,8702977501,hingram@example.net,Onco,23,Morning,183499,Active
+985,Catherine Mccann,Cardiology,6.04E+13,rayjames@example.net,Ortho,29,Night,119066,Active
+986,Linda Parker,Pediatrics,7792151070,buchananjustin@example.org,Cardio,13,Morning,90631,Active
+987,Christopher Frank,Cardiology,4888207633,dbraun@example.net,Cardio,20,Morning,198684,Active
+988,Tammy Kelly,Oncology,1.48E+15,flynnbrooke@example.org,Ortho,37,Morning,97485,Active
+989,Arthur Jones,Neurology,5.47E+12,clarkjames@example.net,Onco,38,Night,65499,Active
+990,Rachel Webster,Orthopedics,1.24E+13,lauren96@example.net,Onco,17,Evening,89660,Active
+991,Charles Oconnor,Neurology,13282838771,haleyfuller@example.org,Ortho,9,Evening,74302,On Leave
+992,Christopher Morgan,Orthopedics,8.63E+13,david29@example.net,Cardio,21,Evening,63479,Active
+993,Whitney Crawford,Pediatrics,4.66E+13,denise14@example.com,Neuro,22,Evening,67564,Active
+994,Jose Ross DVM,Cardiology,7271,charlottebrown@example.net,Neuro,14,Morning,136829,Active
+995,Jose Brooks,Pediatrics,6188026768,robinsonbrian@example.com,Neuro,25,Evening,51005,Active
+996,Marcus Spears,Oncology,1.30E+15,garrettarellano@example.net,Onco,25,Morning,52686,On Leave
+997,Mrs. Lisa Ortega,Cardiology,1.84E+13,tharrison@example.net,Onco,25,Evening,108357,On Leave
+998,William Phillips,Oncology,4272883626,bridget17@example.org,Cardio,30,Night,172447,Active
+999,Kristin Fuentes,Pediatrics,1.84E+14,ijimenez@example.net,Onco,31,Evening,80911,On Leave
+1000,Sarah Morgan,Oncology,1.78E+15,sharon08@example.net,Ortho,6,Night,171315,Active
+1001,Ashley Anderson,Pediatrics,6.78E+14,douglasbriggs@example.com,Onco,3,Morning,97494,Active
+1002,Sarah Dennis,Neurology,4717158189,bhampton@example.org,Ortho,16,Morning,75705,Active
+1003,Daniel Lowery,Neurology,9.47E+13,ethanruiz@example.com,Pedia,15,Night,74552,On Leave
+1004,Lindsey Banks,Pediatrics,3077521622,elizabethchaney@example.org,Pedia,17,Night,142059,On Leave
+1005,Mary Santiago,Oncology,5.88E+14,laura38@example.net,Onco,34,Night,158811,On Leave
+1006,James Henson,Oncology,16749371345,johnbrown@example.net,Ortho,19,Evening,70213,On Leave
+1007,Samantha Brooks,Oncology,1.52E+13,cruzkimberly@example.com,Pedia,4,Morning,198601,On Leave
+1008,Courtney Walsh,Oncology,13478594304,sabrinakennedy@example.com,Cardio,27,Morning,147458,On Leave
+1009,Nicole Flores,Pediatrics,4.49E+13,ramosjoshua@example.com,Cardio,14,Evening,198445,Active
+1010,Chelsea Baker,Neurology,1.74E+14,eberry@example.net,Cardio,38,Morning,114208,On Leave
+1011,Sheila Gonzalez,Cardiology,7487251170,thomas78@example.com,Ortho,20,Evening,168641,Active
+1012,Andrea Frazier,Oncology,5837265460,joshua29@example.com,Onco,16,Night,171816,On Leave
+1013,Amy Harris,Cardiology,2209321508,sullivanantonio@example.net,Ortho,10,Morning,60318,Active
+1014,Nathaniel Oneill,Pediatrics,5678107437,badams@example.org,Pedia,7,Morning,199243,On Leave
+1015,Daniel Jones,Neurology,1.30E+15,fweber@example.org,Pedia,11,Morning,133404,Active
+1016,Barbara Smith,Orthopedics,9.18E+12,ballardalexandria@example.com,Cardio,29,Night,81515,Active
+1017,Meghan Golden,Oncology,2612643467,lauramartinez@example.com,Neuro,24,Night,173530,Active
+1018,Jason Delacruz,Cardiology,9.09E+13,melissa99@example.net,Ortho,5,Morning,134447,Active
+1019,Aaron Robinson,Orthopedics,8.42E+12,zpearson@example.com,Neuro,36,Night,109847,Active
+1020,Christine Roach,Cardiology,8652027158,kwalker@example.org,Pedia,13,Morning,78857,Active
+1021,Marilyn Bush,Cardiology,7127130293,osummers@example.net,Ortho,39,Night,64224,Active
+1022,Brittany Murphy,Orthopedics,5.11E+12,ddavis@example.org,Neuro,16,Night,79439,On Leave
+1023,Jennifer Stevens MD,Oncology,16719952102,rwilliams@example.com,Cardio,11,Evening,128206,On Leave
+1024,Michele Lopez,Orthopedics,8459848582,barbaraspencer@example.org,Ortho,13,Morning,166279,Active
+1025,Matthew Charles,Neurology,9.16E+13,kelseyelliott@example.com,Pedia,15,Evening,70114,On Leave
+1026,Michael Hernandez,Orthopedics,4737587008,adamdavis@example.net,Ortho,4,Night,195351,Active
+1027,Susan Walton,Cardiology,8.61E+14,halltimothy@example.org,Pedia,35,Night,141900,Active
+1028,Lisa Watson,Cardiology,9.90E+13,kathleenkelly@example.net,Onco,33,Morning,92213,On Leave
+1029,Jessica Morgan,Orthopedics,7.02E+14,bryan65@example.org,Onco,15,Morning,59793,Active
+1030,Dale Miller,Neurology,8003740485,epearson@example.org,Onco,31,Evening,160285,Active
+1031,Charles Schaefer,Oncology,6.23E+12,tammie68@example.com,Neuro,35,Night,64330,Active
+1032,Jeffery Smith,Oncology,17926192938,ajones@example.com,Neuro,14,Morning,179271,On Leave
+1033,Christopher Austin,Neurology,9806787305,patrick15@example.com,Cardio,28,Night,152234,Active
+1034,Pamela Duffy,Oncology,1.22E+15,psmith@example.com,Neuro,25,Evening,199048,On Leave
+1035,Kevin Hunt,Orthopedics,8.87E+13,davidkelley@example.com,Pedia,35,Morning,193224,On Leave
+1036,Robert Montoya,Neurology,8368692454,normanmelanie@example.org,Pedia,21,Evening,192117,On Leave
+1037,Amanda Henry,Orthopedics,6.31E+12,smithkylie@example.net,Pedia,27,Night,105413,Active
+1038,Olivia Bautista,Pediatrics,2995885400,edward83@example.org,Pedia,36,Evening,97526,On Leave
+1039,Bradley Perez,Neurology,7.26E+13,melinda26@example.net,Onco,27,Morning,192209,Active
+1040,Tanya Hammond,Oncology,4075559092,stephensondaniel@example.com,Onco,23,Evening,120252,On Leave
+1041,James Gray,Pediatrics,18726950772,braykeith@example.net,Cardio,16,Morning,178249,On Leave
+1042,Lynn Thompson,Neurology,12486897443,twatts@example.net,Ortho,20,Evening,52150,Active
+1043,Kristen James,Pediatrics,9412819717,jessicacannon@example.org,Ortho,15,Morning,60868,On Leave
+1044,David Tucker,Neurology,8974230241,johnsonleslie@example.net,Ortho,1,Night,173100,Active
+1045,Philip Lewis,Oncology,1.39E+13,vcox@example.net,Onco,35,Evening,81790,Active
+1046,Bruce Christensen,Oncology,6888484243,lisa73@example.com,Ortho,1,Morning,117059,On Leave
+1047,Kimberly Ellison,Orthopedics,8552641120,turnerdaniel@example.net,Onco,14,Evening,96122,Active
+1048,Melissa Williams,Pediatrics,5.31E+12,fgill@example.org,Neuro,13,Evening,163381,On Leave
+1049,Christine Jones,Oncology,9.20E+13,bob79@example.org,Onco,38,Evening,136484,On Leave
+1050,Leah Park,Cardiology,1.58E+14,marshallmelissa@example.com,Pedia,34,Night,68208,Active
+1051,Christine Brooks,Pediatrics,7.06E+12,tiffanybrown@example.com,Cardio,19,Morning,68958,On Leave
+1052,Terry Mccoy,Pediatrics,8.01E+12,webbchristina@example.net,Neuro,15,Night,179571,On Leave
+1053,Brandon Meyer,Pediatrics,13145291587,wolfemichael@example.net,Neuro,36,Morning,71858,On Leave
+1054,Eric Harrison,Cardiology,4.93E+14,bfischer@example.org,Pedia,22,Night,86528,On Leave
+1055,Jonathan Ayala,Cardiology,4082250048,lesliejohnson@example.org,Cardio,37,Evening,100931,Active
+1056,Melissa Davis,Pediatrics,6.82E+13,smithmarilyn@example.net,Ortho,22,Night,118939,Active
+1057,Monica Flores,Cardiology,4940,thomasrobert@example.org,Neuro,12,Night,54064,Active
+1058,David Meyers,Neurology,9654880501,hector03@example.org,Onco,2,Night,61434,On Leave
+1059,Victor Hayes,Cardiology,7392977057,mendozatina@example.org,Cardio,21,Night,105560,On Leave
+1060,Jacqueline Vaughn,Cardiology,8.02E+14,victoria95@example.net,Onco,29,Morning,127612,Active
+1061,Julia Phillips,Cardiology,5.20E+12,umatthews@example.org,Neuro,22,Night,74867,Active
+1062,James Henderson,Oncology,3166176443,nathan44@example.org,Cardio,19,Evening,156784,On Leave
+1063,Rebecca Johnson,Neurology,4.15E+12,nfritz@example.com,Neuro,39,Morning,98619,Active
+1064,Ryan Hardy,Oncology,5.59E+14,thomas50@example.com,Cardio,14,Morning,172323,Active
+1065,Calvin Williams,Oncology,7159036638,allisonkristopher@example.org,Cardio,32,Night,71453,On Leave
+1066,John Stevens,Cardiology,4.66E+13,awatson@example.com,Onco,4,Evening,148184,On Leave
+1067,Gregory Dickson,Orthopedics,1671,bwest@example.com,Ortho,36,Evening,119244,Active
+1068,Danielle Smith,Pediatrics,1.93E+13,andrew26@example.org,Cardio,37,Evening,51689,Active
+1069,Stephen Alvarado,Orthopedics,12849964192,sydney71@example.com,Cardio,14,Night,51557,Active
+1070,Christina Cruz,Pediatrics,7.03E+12,michellevilla@example.org,Ortho,2,Evening,137425,Active
+1071,Sergio Dixon,Orthopedics,7384134790,stephanie61@example.org,Cardio,31,Evening,117113,Active
+1072,Grant Lopez,Oncology,5.45E+12,moraleschristopher@example.org,Cardio,12,Night,165926,On Leave
+1073,Cassandra Keith,Pediatrics,5629077375,mariele@example.net,Pedia,30,Night,185440,On Leave
+1074,Crystal Tate,Neurology,2.22E+13,lzimmerman@example.net,Neuro,33,Evening,164771,Active
+1075,Jeffrey Adams,Orthopedics,1.81E+14,thomas91@example.com,Cardio,12,Night,166565,On Leave
+1076,Daniel Moore,Orthopedics,8.75E+13,andrea27@example.com,Ortho,33,Evening,61804,On Leave
+1077,Lori Martin,Cardiology,2.15E+12,mcbriderichard@example.org,Cardio,26,Evening,153469,Active
+1078,Ashley Hines,Orthopedics,8.91E+14,samuelmurray@example.net,Ortho,18,Morning,111463,On Leave
+1079,Heidi Johnson,Cardiology,6332442995,nerickson@example.com,Cardio,5,Evening,122546,On Leave
+1080,Alyssa Cole,Neurology,4.25E+14,kimberly81@example.com,Ortho,19,Evening,173545,On Leave
+1081,Kevin Garcia,Oncology,8047116544,yanthony@example.org,Onco,10,Evening,191481,On Leave
+1082,Christopher Pierce,Cardiology,9.26E+12,riveratamara@example.org,Ortho,7,Night,123882,Active
+1083,Deborah Hutchinson,Oncology,8.50E+12,castrozachary@example.org,Onco,29,Morning,147232,Active
+1084,Alexandra Campbell,Cardiology,1.62E+13,markhenry@example.net,Onco,17,Evening,65235,Active
+1085,Jason Mcguire,Oncology,3262607788,rebeccagross@example.com,Pedia,20,Night,65108,Active
+1086,Kelly Keith,Orthopedics,1.28E+15,gomezwendy@example.org,Ortho,33,Evening,88339,Active
+1087,Kelly Mccarthy,Cardiology,1.70E+13,jennadecker@example.net,Neuro,31,Night,126752,On Leave
+1088,Willie Brooks,Oncology,8.36E+12,david25@example.org,Pedia,5,Morning,184552,Active
+1089,Peter Nelson,Neurology,7335597733,dustinclark@example.org,Pedia,20,Evening,87780,Active
+1090,David Taylor,Orthopedics,15925496379,rossmark@example.org,Ortho,31,Evening,63295,On Leave
+1091,Amanda Mitchell,Oncology,3.64E+12,margaret32@example.com,Pedia,28,Morning,134329,On Leave
+1092,Kimberly Bates,Oncology,1.73E+13,elizabethwallace@example.org,Neuro,27,Night,96984,On Leave
+1093,Jacob Randolph,Neurology,1.80E+14,nealsamuel@example.com,Neuro,9,Morning,119274,Active
+1094,Joe Smith,Cardiology,1.51E+13,zcrawford@example.com,Neuro,5,Evening,130765,On Leave
+1095,Scott Kane,Orthopedics,5.20E+12,gmurphy@example.org,Ortho,30,Night,137153,On Leave
+1096,Mrs. Melinda Cain,Oncology,4.33E+13,chapmanbonnie@example.com,Neuro,26,Night,96798,Active
+1097,Mr. Bryan Campbell,Pediatrics,1.66E+13,andrew96@example.org,Cardio,15,Evening,183643,Active
+1098,Nicole Wright,Neurology,7989627414,andreathomas@example.org,Cardio,29,Morning,142260,Active
+1099,Emily Parrish,Orthopedics,1.64E+14,michealdavidson@example.org,Onco,38,Evening,123608,On Leave
+1100,Cathy Taylor,Orthopedics,2173939318,howelljeremy@example.com,Neuro,29,Night,109500,Active
+1101,Laura Robles,Cardiology,3.34E+14,stevenskaitlyn@example.net,Ortho,2,Evening,181566,Active
+1102,John Hughes,Pediatrics,3418915209,herbertmontoya@example.net,Pedia,6,Morning,125197,Active
+1103,Anne Goodman,Pediatrics,5828677540,melissa96@example.net,Onco,6,Evening,75698,Active
+1104,Megan Fry,Pediatrics,1.75E+15,dadkins@example.com,Pedia,20,Morning,124080,Active
+1105,Brad English,Orthopedics,1.70E+13,burnettsharon@example.com,Ortho,5,Night,76288,Active
+1106,Guy Watson,Cardiology,3.65E+14,yduke@example.org,Onco,21,Night,182150,On Leave
+1107,Kenneth Barker PhD,Orthopedics,8.43E+12,avelazquez@example.net,Pedia,14,Morning,182752,Active
+1108,April Higgins,Neurology,5292631815,bradley62@example.com,Neuro,23,Night,68164,On Leave
+1109,Nathan Roberts,Neurology,7.61E+12,harrisjonathan@example.com,Onco,20,Morning,166079,On Leave
+1110,James Stephenson,Neurology,8998035674,sandysanders@example.com,Cardio,31,Evening,129531,On Leave
+1111,Kelsey Shields,Cardiology,2.00E+13,tthomas@example.com,Ortho,25,Night,124448,Active
+1112,Nichole Wu,Orthopedics,1.98E+15,jennifer05@example.org,Neuro,8,Evening,122176,Active
+1113,Ruben Caldwell,Oncology,5.77E+13,georgeflynn@example.net,Neuro,27,Morning,174199,Active
+1114,Brenda Green,Orthopedics,3.69E+14,reyesbecky@example.com,Cardio,10,Night,81414,On Leave
+1115,Peter Munoz,Oncology,1.62E+13,bstokes@example.org,Onco,10,Evening,139357,Active
+1116,Miranda Knight,Pediatrics,10090,jilliantrujillo@example.com,Neuro,24,Morning,77613,On Leave
+1117,Juan Williams,Cardiology,1.80E+13,smorris@example.org,Pedia,7,Night,174815,On Leave
+1118,Kristen Cannon,Oncology,17548644443,qflores@example.com,Onco,32,Night,113251,Active
+1119,Jordan Acosta,Oncology,2.46E+13,william77@example.org,Neuro,37,Evening,75545,On Leave
+1120,Melinda Tate,Orthopedics,7532,tstephens@example.com,Neuro,9,Night,184643,Active
+1121,Pamela Garrett,Cardiology,8.00E+13,kbrown@example.com,Onco,36,Night,83975,On Leave
+1122,Regina Schneider,Orthopedics,4824527090,john05@example.com,Ortho,30,Night,68425,Active
+1123,Nathan Christensen,Orthopedics,7.04E+13,debbie94@example.org,Ortho,32,Morning,169454,On Leave
+1124,Mark Barker,Orthopedics,2418528893,tcolon@example.net,Onco,1,Night,152223,On Leave
+1125,Michael Schneider,Pediatrics,9297570540,juliegarza@example.com,Cardio,11,Night,89784,On Leave
+1126,Audrey Diaz,Neurology,1.43E+13,kpacheco@example.org,Ortho,25,Night,111039,Active
+1127,Sandra Sanchez,Oncology,6433869028,awhite@example.org,Neuro,16,Evening,125391,Active
+1128,Sara Maldonado,Neurology,6877259231,hollyhurley@example.com,Ortho,1,Morning,116784,Active
+1129,Ian Klein,Orthopedics,4.88E+12,wardangela@example.org,Onco,37,Morning,191855,On Leave
+1130,Walter Mendez,Orthopedics,3.20E+12,jessicagibbs@example.com,Ortho,28,Evening,197857,Active
+1131,Edward Lutz,Oncology,5.03E+13,riceteresa@example.com,Neuro,26,Evening,158729,On Leave
+1132,Devin Garcia,Pediatrics,3.85E+14,ilong@example.org,Ortho,21,Evening,89364,Active
+1133,Jacqueline Thompson,Neurology,4119128806,fjones@example.net,Cardio,27,Night,71432,On Leave
+1134,James Gregory,Orthopedics,2.77E+12,emartinez@example.net,Onco,13,Evening,155276,On Leave
+1135,Lisa Mathis,Cardiology,2.36E+13,hannahmora@example.net,Pedia,18,Evening,125939,Active
+1136,Sarah Stewart,Pediatrics,5047916837,mayrussell@example.com,Pedia,39,Evening,186126,On Leave
+1137,Gary Richardson,Neurology,19823558877,tfloyd@example.org,Ortho,29,Evening,162287,On Leave
+1138,Robyn Mccormick,Pediatrics,4486021982,stacey74@example.net,Onco,30,Morning,62779,Active
+1139,Connie Johnson,Orthopedics,9.42E+14,flopez@example.com,Pedia,16,Evening,123934,Active
+1140,Robert Sweeney,Oncology,3555608501,erin89@example.net,Cardio,29,Evening,145470,On Leave
+1141,Donald Hendricks,Neurology,9.14E+13,santanatimothy@example.net,Onco,11,Morning,125947,Active
+1142,Crystal Boyd,Neurology,7.89E+14,ashley84@example.net,Neuro,33,Night,64743,On Leave
+1143,Christina Smith,Neurology,9268656011,markdurham@example.net,Pedia,1,Night,97052,On Leave
+1144,Kevin Malone,Oncology,1.63E+13,dustin75@example.org,Ortho,19,Night,143932,On Leave
+1145,James West,Cardiology,4.80E+14,patrickcline@example.net,Ortho,10,Night,122088,On Leave
+1146,Kathy Solis,Orthopedics,5.67E+12,grahamjason@example.com,Neuro,25,Morning,198655,Active
+1147,Lindsey Bartlett,Cardiology,6.51E+13,paula92@example.com,Cardio,19,Evening,170534,On Leave
+1148,Robert Wilson,Oncology,4.33E+13,maria54@example.org,Onco,16,Evening,111473,On Leave
+1149,Brandy Scott,Neurology,5.03E+12,mary15@example.net,Ortho,28,Night,112864,Active
+1150,Gregory Bell,Pediatrics,2.41E+12,ofranklin@example.com,Onco,14,Evening,176542,On Leave
+1151,Edward Miller,Orthopedics,1.75E+13,maryking@example.org,Pedia,1,Evening,118727,On Leave
+1152,Brenda Weaver,Neurology,6566504921,william31@example.net,Cardio,26,Morning,107894,Active
+1153,Christine Rodriguez,Neurology,12802928321,brandon17@example.org,Ortho,1,Night,199876,On Leave
+1154,Ian Kelley,Cardiology,1.71E+14,rgriffin@example.net,Cardio,25,Evening,192570,On Leave
+1155,Edward Cooper,Pediatrics,6.25E+13,russelljenkins@example.net,Ortho,18,Night,176622,On Leave
+1156,April Lawrence,Oncology,3.16E+12,wbass@example.org,Cardio,36,Night,70035,Active
+1157,Gabriella Marshall,Oncology,7052810739,josephalvarez@example.net,Neuro,7,Evening,62192,Active
+1158,Michael Thompson,Cardiology,4194622291,djones@example.org,Ortho,31,Night,189797,On Leave
+1159,Kerri Perry,Orthopedics,9196396715,christineharris@example.org,Pedia,20,Evening,53675,On Leave
+1160,Melanie Jones,Oncology,2345972684,ryanmichael@example.com,Neuro,28,Morning,173446,Active
+1161,Vanessa Calhoun,Neurology,1.88E+15,timothymorgan@example.net,Cardio,16,Morning,172461,Active
+1162,Terry Hall,Oncology,7.02E+14,cynthiamccoy@example.com,Ortho,5,Night,67252,Active
+1163,Marc Macdonald,Cardiology,9.38E+14,pwyatt@example.org,Onco,35,Night,168395,Active
+1164,Blake Lewis,Cardiology,3.05E+13,kimberlyreyes@example.net,Neuro,25,Evening,126021,On Leave
+1165,Charlene Matthews,Neurology,8.03E+14,david43@example.net,Ortho,6,Night,57784,On Leave
+1166,Sharon Vargas,Orthopedics,5392856328,khenry@example.net,Neuro,6,Evening,66309,Active
+1167,Deborah Barron,Cardiology,8588285111,kelleyjoel@example.com,Cardio,38,Evening,180563,Active
+1168,Brian Benson,Cardiology,7.04E+12,cjackson@example.net,Pedia,3,Night,143168,On Leave
+1169,Curtis Gonzalez,Oncology,3907758344,shelley39@example.net,Ortho,6,Evening,177752,On Leave
+1170,Ruben Scott,Pediatrics,2.20E+14,donna69@example.org,Ortho,30,Morning,147553,On Leave
+1171,Ryan Vega,Cardiology,4.86E+12,david66@example.net,Cardio,8,Evening,66266,Active
+1172,Kimberly Mccullough,Oncology,2.97E+13,hwhite@example.org,Cardio,31,Morning,117081,On Leave
+1173,Robin Maldonado,Orthopedics,4412616846,john96@example.net,Neuro,27,Morning,192175,On Leave
+1174,Melissa Greene,Cardiology,1.77E+15,jasonandersen@example.net,Cardio,22,Evening,82497,Active
+1175,Jose Palmer,Oncology,6.10E+13,sheilaprice@example.net,Ortho,39,Night,115616,Active
+1176,Shelby Edwards,Neurology,1.75E+15,emilysullivan@example.com,Onco,38,Morning,79525,On Leave
+1177,Carlos Fowler,Pediatrics,1.89E+13,munozkevin@example.org,Pedia,17,Night,126138,On Leave
+1178,Kelsey Miller,Oncology,8.18E+13,chloemooney@example.net,Ortho,6,Evening,57494,Active
+1179,Linda Thompson,Orthopedics,3.41E+14,higginsrobert@example.com,Onco,17,Morning,190707,On Leave
+1180,Erin Forbes,Orthopedics,2.58E+12,jennifernunez@example.org,Pedia,5,Evening,111561,On Leave
+1181,Jillian Hopkins,Cardiology,8.82E+14,timothyevans@example.org,Ortho,10,Morning,114226,Active
+1182,Melanie Williams,Pediatrics,8.18E+14,melissa89@example.org,Ortho,3,Evening,96561,Active
+1183,April Green,Cardiology,6.36E+14,jjones@example.org,Pedia,26,Evening,138441,On Leave
+1184,Michelle Huerta,Pediatrics,2.26E+12,smithjennifer@example.net,Neuro,10,Morning,84408,Active
+1185,Benjamin Buchanan,Orthopedics,10360,joseph94@example.org,Ortho,3,Night,75703,Active
+1186,John Smith,Oncology,6049372167,tmerritt@example.org,Ortho,6,Morning,50253,On Leave
+1187,Cheryl Bates,Oncology,9827569913,lewisrebecca@example.com,Neuro,1,Morning,124792,Active
+1188,Michael Zamora,Cardiology,6666137389,uanderson@example.com,Onco,23,Night,100167,Active
+1189,Sarah Johnson,Pediatrics,4144649645,kelly66@example.com,Pedia,4,Evening,82627,Active
+1190,Mitchell Mckenzie,Neurology,5586345848,oholt@example.org,Ortho,24,Night,103238,Active
+1191,Kristin Austin,Oncology,4949198626,montgomerycheryl@example.org,Onco,9,Morning,124350,Active
+1192,Matthew Young,Oncology,1.65E+15,dmiller@example.com,Neuro,27,Evening,118329,Active
+1193,Julie Morton,Orthopedics,7447885616,stevenfischer@example.net,Pedia,36,Evening,198401,On Leave
+1194,Rachel Martin,Orthopedics,2.77E+12,yperry@example.org,Pedia,19,Morning,141045,Active
+1195,Donald Hatfield,Cardiology,9437763414,daughertyjeremy@example.com,Ortho,37,Night,138572,Active
+1196,Amy Hicks,Cardiology,2.85E+14,alyssasantos@example.org,Onco,39,Night,96103,Active
+1197,Rebecca Williams,Neurology,1.92E+15,jrogers@example.org,Onco,5,Morning,181282,Active
+1198,Andrew Ochoa,Neurology,3.72E+14,shuerta@example.org,Ortho,17,Evening,76666,On Leave
+1199,Susan Davis,Orthopedics,1.62E+15,hilljames@example.com,Neuro,25,Evening,82455,Active
+1200,Thomas Mckinney,Neurology,1.96E+13,jameswhite@example.net,Onco,13,Evening,188220,On Leave
+1201,Gregory Mcdaniel,Orthopedics,6.55E+14,richardshannon@example.net,Ortho,5,Evening,52217,Active
+1202,Adrian Riley,Oncology,6.12E+13,mnelson@example.net,Neuro,9,Evening,50743,On Leave
+1203,Cheryl Miller,Orthopedics,2669353589,melissa66@example.org,Neuro,9,Morning,107443,On Leave
+1204,Kelly Scott,Pediatrics,4568117753,srowe@example.net,Pedia,22,Morning,74476,On Leave
+1205,Bryan Hicks,Pediatrics,5826315020,sonyasummers@example.org,Onco,31,Morning,111147,On Leave
+1206,Adam Sellers,Oncology,3215375108,fisherlatoya@example.com,Onco,29,Morning,127240,On Leave
+1207,Scott Higgins,Pediatrics,1.39E+13,robertreyes@example.org,Onco,12,Night,66916,Active
+1208,Diane Roberts,Oncology,9347866736,ryantaylor@example.net,Neuro,23,Night,188831,On Leave
+1209,John Russell,Oncology,6515539964,briannaedwards@example.com,Ortho,2,Night,173044,On Leave
+1210,Hannah Brown,Cardiology,1.61E+13,klewis@example.com,Neuro,16,Night,115758,On Leave
+1211,Melanie Figueroa,Cardiology,7.13E+12,christinerobinson@example.org,Ortho,26,Morning,94181,On Leave
+1212,Victoria Smith,Orthopedics,6.48E+12,jacksonstephanie@example.com,Pedia,22,Morning,158424,Active
+1213,Sherri Humphrey,Cardiology,2863564332,ygomez@example.com,Pedia,19,Morning,105000,Active
+1214,Steven Vazquez,Pediatrics,5722269934,brandonwright@example.com,Onco,39,Evening,107080,Active
+1215,Kevin Petty,Pediatrics,1.60E+14,sfrancis@example.net,Ortho,38,Night,64281,On Leave
+1216,Jessica Hardy,Cardiology,8086865528,laura53@example.com,Neuro,28,Morning,111924,On Leave
+1217,Blake Gonzalez,Pediatrics,1.46E+13,ecampbell@example.org,Pedia,21,Night,184877,Active
+1218,Jonathon Marsh,Orthopedics,1.44E+13,steven11@example.com,Onco,10,Morning,56087,Active
+1219,Daniel Gilbert,Oncology,1.21E+14,bestcatherine@example.org,Cardio,3,Morning,73716,Active
+1220,Lance Dickerson,Neurology,4.61E+13,hgray@example.com,Pedia,6,Evening,134858,On Leave
+1221,Dawn Richardson DDS,Pediatrics,1.72E+13,gardnermargaret@example.org,Pedia,34,Evening,154044,Active
+1222,Eric Armstrong MD,Orthopedics,3.05E+12,marshalljason@example.org,Pedia,19,Morning,108591,Active
+1223,Tanya Weeks,Neurology,7.47E+14,zbutler@example.org,Neuro,1,Night,101485,Active
+1224,Charles Wilson,Oncology,3344734204,bgomez@example.com,Ortho,30,Morning,182282,On Leave
+1225,Christine Brady,Neurology,5.71E+14,vwright@example.net,Neuro,31,Evening,53856,On Leave
+1226,Seth Adams,Pediatrics,4408366684,rebeccadavis@example.org,Onco,11,Evening,185990,On Leave
+1227,Sara Stone,Cardiology,8453936506,luis15@example.com,Neuro,28,Morning,60441,Active
+1228,Karen Smith,Oncology,1.73E+14,uharper@example.com,Pedia,20,Evening,110862,On Leave
+1229,Melissa Phelps,Neurology,9.83E+12,collinsronald@example.net,Onco,35,Morning,52665,Active
+1230,Meagan Cunningham,Cardiology,5350,rrogers@example.net,Neuro,31,Morning,193869,Active
+1231,Amanda Rojas,Cardiology,1.62E+13,nicholasespinoza@example.org,Cardio,39,Evening,57210,Active
+1232,Alicia Serrano,Cardiology,5.70E+14,harrisjeremy@example.org,Pedia,35,Night,189331,Active
+1233,Ms. Tara Fleming PhD,Pediatrics,1.46E+14,jonesamy@example.org,Cardio,35,Morning,97385,Active
+1234,James Ortiz,Oncology,7914002464,tyler38@example.org,Neuro,24,Evening,159317,Active
+1235,Douglas Mendoza DDS,Orthopedics,14958976088,johnsonemily@example.com,Pedia,24,Night,134464,On Leave
+1236,Molly Johnston,Cardiology,18649788319,morrisyolanda@example.com,Neuro,37,Evening,175813,On Leave
+1237,Sara Hughes,Pediatrics,1.54E+14,michellemartinez@example.com,Pedia,2,Night,194739,On Leave
+1238,Jennifer Morales,Oncology,1.39E+14,petersontroy@example.org,Neuro,27,Morning,142281,On Leave
+1239,Carrie Flores,Oncology,3444618309,qjackson@example.org,Ortho,18,Night,112376,On Leave
+1240,Crystal Hardy,Pediatrics,6404145169,scott16@example.com,Neuro,19,Night,64244,Active
+1241,Sandra Bryant,Oncology,6575312169,kvincent@example.org,Pedia,14,Evening,124856,Active
+1242,William Bryant,Neurology,5709438377,kbaker@example.com,Neuro,7,Night,174021,On Leave
+1243,Chelsea Weaver,Oncology,2038,gharris@example.com,Cardio,36,Evening,190999,Active
+1244,Beth Bailey,Orthopedics,2.89E+12,irussell@example.com,Onco,23,Night,98723,Active
+1245,Heather Williams,Cardiology,1.55E+15,rhines@example.com,Ortho,17,Morning,172043,Active
+1246,Craig Carter,Cardiology,1.54E+15,cmedina@example.org,Neuro,24,Evening,145646,Active
+1247,Amanda Rivera,Neurology,8.93E+12,qblack@example.net,Cardio,29,Evening,125200,On Leave
+1248,Dr. Alison Lee,Orthopedics,4787,richardsderek@example.com,Neuro,37,Night,122398,Active
+1249,Amy Crosby,Neurology,7933869126,greenedaniel@example.org,Cardio,23,Evening,82774,On Leave
+1250,Julie Hernandez,Orthopedics,6792418488,robinsonandrew@example.org,Onco,38,Evening,113293,On Leave
+1251,Matthew Nichols DDS,Cardiology,6276848901,angela31@example.com,Ortho,12,Evening,50073,Active
+1252,Alan Thompson,Cardiology,1.60E+13,zwoods@example.org,Pedia,30,Morning,125780,On Leave
+1253,Roy Chavez,Pediatrics,1.23E+15,npacheco@example.com,Cardio,21,Evening,74994,Active
+1254,Janet Melton,Pediatrics,9952681144,haleyporter@example.net,Pedia,35,Night,75432,Active
+1255,Tyler Smith,Neurology,7.79E+14,louis83@example.net,Cardio,15,Evening,101145,On Leave
+1256,Stacey Wright,Oncology,1.94E+15,stacy83@example.com,Pedia,36,Evening,121661,Active
+1257,Frank Conway,Cardiology,8.66E+14,robert19@example.org,Onco,7,Evening,131097,On Leave
+1258,Christopher Martin,Cardiology,3.12E+12,brian80@example.com,Cardio,31,Morning,76286,Active
+1259,Thomas Bennett,Oncology,5163048851,richardschultz@example.org,Cardio,22,Night,69625,On Leave
+1260,Heather Freeman,Neurology,3909741500,stephen83@example.com,Cardio,39,Evening,54026,Active
+1261,Gregory Adams,Cardiology,2953127927,bakerdavid@example.net,Neuro,10,Morning,159013,On Leave
+1262,Mark Harrington,Cardiology,4.90E+12,sheaadam@example.com,Neuro,10,Evening,188597,Active
+1263,Mary Murphy,Orthopedics,6627296340,abenitez@example.net,Pedia,7,Morning,136052,Active
+1264,John Wilson,Cardiology,2543325924,tina59@example.net,Onco,21,Evening,115420,Active
+1265,Roy Willis,Pediatrics,1.69E+13,mandrews@example.org,Ortho,37,Morning,158825,Active
+1266,Kevin Wilson,Pediatrics,5965050235,vmoore@example.org,Ortho,4,Evening,130576,Active
+1267,Erica Frazier,Cardiology,3.02E+14,oliveramanda@example.net,Ortho,8,Night,55941,Active
+1268,Cathy Carter,Cardiology,4116910427,williampena@example.net,Ortho,11,Evening,89002,On Leave
+1269,Annette Ruiz,Cardiology,5.70E+13,thomasvicki@example.com,Ortho,26,Evening,162993,Active
+1270,Patricia Boyle,Pediatrics,4193786277,karen35@example.net,Ortho,18,Evening,83018,On Leave
+1271,John Davis,Neurology,9.67E+14,joseph25@example.com,Neuro,11,Morning,97171,Active
+1272,John Cervantes,Cardiology,1.35E+14,xlopez@example.com,Onco,6,Night,179264,On Leave
+1273,Roberto Higgins,Oncology,1.63E+15,qfields@example.com,Neuro,13,Night,63259,Active
+1274,Veronica Lopez,Neurology,15504101039,tina38@example.org,Pedia,5,Morning,129662,Active
+1275,Steve Garner,Orthopedics,1.25E+14,sarahcasey@example.org,Pedia,35,Evening,61382,On Leave
+1276,Amber Williams,Neurology,6.48E+14,david63@example.com,Pedia,16,Night,109926,On Leave
+1277,Nicole Garcia,Orthopedics,1.39E+15,carrieliu@example.org,Pedia,14,Night,162791,On Leave
+1278,Mark Martinez,Orthopedics,2595332342,ipearson@example.org,Onco,4,Morning,123355,Active
+1279,Alexandra Turner,Orthopedics,3737790261,lthomas@example.org,Cardio,27,Morning,159474,Active
+1280,Lori Armstrong,Orthopedics,8.96E+14,greenjuan@example.net,Cardio,36,Evening,189246,On Leave
+1281,Jerry Parker,Pediatrics,2074700739,hartanthony@example.org,Ortho,28,Evening,100487,Active
+1282,Mark Villarreal,Oncology,1.50E+15,michele46@example.net,Neuro,36,Night,67167,On Leave
+1283,Timothy Marshall,Orthopedics,2.63E+12,rnoble@example.com,Pedia,33,Evening,101781,On Leave
+1284,Julie Cobb,Orthopedics,7.49E+12,martinariana@example.org,Pedia,30,Evening,50274,Active
+1285,David Johnson,Cardiology,1.22E+15,vfuller@example.net,Neuro,12,Evening,82904,Active
+1286,Eric Michael,Oncology,3.67E+14,beaton@example.org,Pedia,10,Morning,71833,On Leave
+1287,Christina Vega,Oncology,9039118196,vwest@example.net,Ortho,19,Night,71069,Active
+1288,Christopher Jensen,Orthopedics,7838056463,guerrerolinda@example.net,Onco,28,Morning,161832,On Leave
+1289,Ashley Brown,Cardiology,7487516240,fwilson@example.com,Onco,27,Evening,151843,Active
+1290,Kathleen Camacho,Neurology,6.12E+12,hrose@example.com,Onco,30,Night,162481,Active
+1291,Miranda Pineda,Neurology,7.56E+14,romanandrew@example.com,Ortho,7,Night,50153,On Leave
+1292,James Clark,Cardiology,8188404300,renee89@example.net,Pedia,10,Evening,58998,On Leave
+1293,Mr. William King,Pediatrics,2988,adam79@example.net,Ortho,28,Evening,78159,Active
+1294,John Taylor,Cardiology,3.02E+12,uwolf@example.com,Pedia,26,Night,60214,Active
+1295,Kristen Zuniga,Pediatrics,6372235791,briancopeland@example.com,Ortho,24,Morning,120321,Active
+1296,Misty Richardson,Pediatrics,6897471217,kaitlyn74@example.org,Cardio,1,Evening,90696,On Leave
+1297,Jill Henry,Cardiology,8759904138,cookrachel@example.net,Pedia,27,Night,195554,On Leave
+1298,Melissa Davis,Pediatrics,3.71E+12,burkenicholas@example.com,Ortho,14,Night,198264,Active
+1299,Michael Hawkins,Cardiology,4872619382,freemanlee@example.org,Onco,21,Night,122920,On Leave
+1300,Wendy Hubbard,Oncology,5.54E+13,whanson@example.com,Cardio,3,Night,168187,On Leave
+1301,Karen Kelly,Cardiology,10357,rickywhitaker@example.net,Pedia,35,Night,77479,On Leave
+1302,Marcus Evans,Cardiology,9114512075,gloria02@example.org,Ortho,8,Evening,184194,On Leave
+1303,Hayley Parker,Orthopedics,1.38E+14,fhernandez@example.net,Cardio,28,Evening,104804,On Leave
+1304,John Bailey,Pediatrics,7956210169,brett28@example.net,Cardio,7,Night,174864,Active
+1305,Anne Chase,Cardiology,8257855735,angela93@example.net,Ortho,23,Morning,99189,Active
+1306,Brittany Baxter,Orthopedics,9.57E+12,xjohnson@example.org,Cardio,29,Night,177059,Active
+1307,Michael Walsh,Neurology,4386,victoriawilliams@example.com,Onco,24,Evening,141743,On Leave
+1308,Shane Wade,Orthopedics,2197340892,hbaldwin@example.net,Ortho,23,Morning,170548,Active
+1309,Amy Anderson,Cardiology,9.50E+12,veronica42@example.net,Cardio,7,Morning,137068,On Leave
+1310,Stephanie Harmon,Pediatrics,1.62E+13,francisjames@example.com,Cardio,12,Night,144523,On Leave
+1311,Jill Morgan,Pediatrics,6774505961,chandlermichael@example.com,Pedia,25,Night,128881,Active
+1312,Sara Strong,Orthopedics,6576907291,bakerdenise@example.org,Neuro,33,Evening,138517,On Leave
+1313,Vickie King,Oncology,2588103446,amber31@example.org,Cardio,10,Night,59079,On Leave
+1314,Shane Lopez,Pediatrics,7.03E+13,zarnold@example.net,Pedia,18,Evening,103903,Active
+1315,Diana Davenport,Orthopedics,7519790607,yriley@example.com,Neuro,31,Night,199072,On Leave
+1316,Katherine Reynolds,Cardiology,5.14E+13,lbright@example.com,Neuro,17,Night,99286,Active
+1317,Jonathan Long,Orthopedics,3.03E+14,natalieflowers@example.com,Pedia,31,Morning,90054,Active
+1318,Kaitlyn Mendez,Pediatrics,6716825543,stevensheidi@example.net,Onco,6,Evening,135720,On Leave
+1319,Amy Franklin,Neurology,3.02E+14,parkerjessica@example.org,Pedia,15,Night,120759,On Leave
+1320,Christopher Campos,Orthopedics,1.51E+13,gamblebryan@example.com,Pedia,6,Night,86940,On Leave
+1321,Jessica Gallegos,Pediatrics,8817133016,joshuawhitney@example.com,Cardio,6,Evening,81258,Active
+1322,Luis Montes,Oncology,15632704001,michellegray@example.org,Ortho,6,Night,140468,Active
+1323,April Castro,Oncology,5238207318,rileylaura@example.net,Onco,12,Evening,67665,Active
+1324,Jerry Lin,Pediatrics,1.31E+14,sabrinasmith@example.org,Neuro,11,Night,155945,Active
+1325,John Turner,Oncology,8.70E+12,carlos90@example.org,Onco,30,Night,84097,On Leave
+1326,Rebecca Kim,Oncology,8028667988,rossshelia@example.org,Cardio,2,Morning,56112,Active
+1327,Jill Conrad,Cardiology,7.83E+12,kristenparker@example.org,Pedia,29,Night,72127,Active
+1328,Bruce Henry,Cardiology,4.12E+14,andrewodonnell@example.net,Ortho,1,Evening,185514,Active
+1329,Emily Dunn,Pediatrics,8126955460,hayestiffany@example.org,Ortho,23,Evening,122748,Active
+1330,Thomas Davenport,Oncology,6.14E+12,zsanders@example.net,Cardio,36,Night,68468,Active
+1331,Harold Pitts,Pediatrics,3.09E+13,grahamclinton@example.net,Neuro,8,Evening,121804,On Leave
+1332,Mary Curtis,Oncology,9412788210,fjones@example.com,Neuro,2,Night,138812,On Leave
+1333,Zachary Fry,Pediatrics,2168524252,dunncharles@example.org,Neuro,25,Night,148905,On Leave
+1334,Tammy Beasley,Cardiology,8101,lauren68@example.com,Cardio,21,Morning,52773,On Leave
+1335,Ms. Laura Johnson,Neurology,3.88E+14,patrick66@example.org,Cardio,3,Evening,65254,Active
+1336,Mr. John Cooper,Orthopedics,4.60E+12,cmanning@example.net,Cardio,9,Evening,123295,Active
+1337,Phyllis Medina,Neurology,9955005589,sethchavez@example.com,Ortho,38,Morning,129229,Active
+1338,Alex Allen,Cardiology,1.71E+13,hmendez@example.com,Neuro,36,Morning,176276,Active
+1339,Sara Armstrong,Neurology,4.93E+13,peterschristopher@example.com,Pedia,21,Morning,185732,Active
+1340,Kathryn Taylor,Orthopedics,4.01E+14,paulmiller@example.com,Onco,36,Night,125630,On Leave
+1341,Jonathan Franco,Cardiology,8123407448,millerashley@example.com,Pedia,7,Morning,85707,Active
+1342,Jennifer Ramos,Pediatrics,1.27E+13,rebecca77@example.com,Cardio,23,Evening,139853,On Leave
+1343,Aaron Cobb,Orthopedics,5123788491,anolan@example.net,Cardio,10,Morning,55715,Active
+1344,Joseph Phillips,Neurology,4.61E+12,sanchezcarlos@example.net,Cardio,28,Morning,97972,On Leave
+1345,Jennifer Jones,Oncology,10071,andrew32@example.net,Pedia,38,Evening,168980,On Leave
+1346,Tammy Strickland,Oncology,1.35E+15,dana97@example.net,Cardio,38,Morning,187580,On Leave
+1347,Jennifer Harvey,Pediatrics,6306990766,ovega@example.org,Cardio,18,Night,60488,Active
+1348,Donna Diaz,Neurology,8914778521,xking@example.com,Onco,39,Night,176684,On Leave
+1349,Ryan Prince,Oncology,8.25E+12,crystalrandall@example.org,Pedia,5,Night,102505,Active
+1350,Roberto Mclaughlin,Orthopedics,5.04E+13,millerbrian@example.org,Ortho,4,Morning,144106,On Leave
+1351,Stephanie Vang,Orthopedics,3.53E+13,mgarcia@example.org,Neuro,19,Evening,102033,Active
+1352,Susan Fischer,Neurology,1.32E+13,kevinanderson@example.com,Ortho,31,Night,162493,Active
+1353,Gina Bell,Oncology,1.24E+13,johnsonkatherine@example.net,Onco,27,Evening,51796,Active
+1354,Rachel Hayden DDS,Pediatrics,9.93E+14,pachecochristina@example.net,Cardio,15,Night,102851,Active
+1355,Daisy Williams,Cardiology,6143,jacob24@example.net,Neuro,8,Evening,119918,On Leave
+1356,Christopher Wallace,Oncology,1.61E+13,christopherbradley@example.com,Pedia,32,Evening,176527,Active
+1357,Norma Morris,Oncology,4.25E+14,hevans@example.com,Pedia,3,Night,106980,On Leave
+1358,Jessica Jones,Oncology,4.55E+14,robert29@example.net,Cardio,28,Evening,85904,On Leave
+1359,Latoya Thomas,Orthopedics,2548150868,knunez@example.com,Neuro,20,Evening,157589,On Leave
+1360,Brittany Rangel,Oncology,6976206694,gonzalezmatthew@example.net,Onco,16,Morning,193770,On Leave
+1361,Debra Johnson,Orthopedics,4.90E+14,nritter@example.org,Ortho,29,Evening,161653,On Leave
+1362,Johnny Johnson,Oncology,6.87E+14,uburton@example.org,Ortho,21,Evening,83309,On Leave
+1363,Jason Steele,Neurology,7.76E+14,meghanrodriguez@example.org,Pedia,7,Night,74893,On Leave
+1364,Randy Baker,Pediatrics,2348445631,katie62@example.com,Cardio,14,Night,164099,On Leave
+1365,Anita Ali,Oncology,10379,hayeslarry@example.org,Cardio,12,Evening,165167,Active
+1366,Louis Coleman,Pediatrics,4444714056,garciaandrea@example.org,Cardio,19,Evening,192573,Active
+1367,Kimberly Middleton,Pediatrics,6188011568,shannonwells@example.org,Neuro,33,Evening,141280,On Leave
+1368,Shawn Stokes,Neurology,8.81E+13,zbaxter@example.com,Pedia,11,Night,170709,On Leave
+1369,Frances Bright,Neurology,6.78E+13,jade18@example.com,Pedia,27,Morning,152390,Active
+1370,Trevor Guzman,Cardiology,2.36E+13,andersonjoel@example.com,Onco,35,Morning,55149,Active
+1371,Rebecca Walters,Oncology,7769,jkaufman@example.net,Onco,2,Evening,136583,On Leave
+1372,Maria Browning,Neurology,6.72E+13,harrythomas@example.com,Onco,39,Night,136389,Active
+1373,Jennifer Smith,Oncology,2.61E+14,delacruzandrea@example.org,Neuro,21,Morning,185149,Active
+1374,Tyler Cole,Oncology,2.83E+13,xwilson@example.net,Pedia,28,Evening,79753,On Leave
+1375,Ryan Schmidt,Orthopedics,4.53E+13,adamcharles@example.com,Onco,15,Night,132622,Active
+1376,Nathan Wheeler,Neurology,1.84E+15,fhudson@example.org,Neuro,4,Morning,135235,On Leave
+1377,Andrew Dixon,Pediatrics,2.11E+12,monicahowell@example.net,Onco,22,Evening,150131,Active
+1378,Tiffany Johnson,Orthopedics,5901,moorekevin@example.org,Neuro,7,Night,165627,On Leave
+1379,Carolyn Scott,Orthopedics,1.81E+15,karenwilliams@example.org,Ortho,31,Night,193515,Active
+1380,Deborah Jenkins,Neurology,4.05E+14,bwagner@example.com,Onco,26,Evening,181722,On Leave
+1381,Keith Davis,Pediatrics,15699247319,stephen17@example.org,Pedia,15,Night,94043,Active
+1382,Benjamin Cook,Pediatrics,1.63E+13,jason42@example.com,Ortho,33,Morning,138549,On Leave
+1383,Corey Mullins,Orthopedics,1.29E+15,gravesnathaniel@example.org,Ortho,14,Evening,115276,On Leave
+1384,Luke Morrow,Orthopedics,13762921771,stevepacheco@example.org,Pedia,1,Morning,168546,On Leave
+1385,Sabrina Parker,Pediatrics,1.66E+14,scott20@example.net,Ortho,25,Evening,101903,Active
+1386,Brenda Harris MD,Orthopedics,9588515567,rossdaniel@example.org,Cardio,12,Evening,75196,On Leave
+1387,Anthony Sampson,Cardiology,1.00E+15,harrylindsey@example.net,Neuro,10,Night,111974,Active
+1388,Edwin Mills,Pediatrics,3.64E+14,wtorres@example.net,Pedia,29,Morning,158172,Active
+1389,William Williams,Cardiology,19819695072,maysjeff@example.org,Onco,27,Night,145142,On Leave
+1390,John Cowan,Pediatrics,4053230853,deanna38@example.com,Cardio,25,Morning,185650,On Leave
+1391,Daniel Trujillo,Cardiology,6719265248,laurachaney@example.net,Cardio,21,Morning,86443,Active
+1392,Whitney Cannon,Neurology,8.77E+13,kathrynblake@example.com,Neuro,13,Night,195810,On Leave
+1393,Jose Gill,Neurology,3938358603,margaret37@example.com,Ortho,14,Morning,167535,On Leave
+1394,Ryan Willis,Pediatrics,1.27E+14,schultzpamela@example.org,Ortho,36,Evening,154398,Active
+1395,Thomas Phillips,Orthopedics,1.27E+14,katherine54@example.org,Onco,10,Morning,143740,Active
+1396,Alicia Howard,Cardiology,9.37E+14,ggonzalez@example.net,Pedia,17,Night,154595,Active
+1397,Bethany James,Pediatrics,8.38E+14,crystal79@example.net,Cardio,8,Morning,92966,On Leave
+1398,Lisa Castillo,Orthopedics,4.14E+13,wareronald@example.com,Neuro,32,Evening,58034,Active
+1399,Sandra Olson,Neurology,7972060055,robinsonanthony@example.net,Neuro,34,Evening,95237,On Leave
+1400,Morgan Sanders,Cardiology,3433596753,cwagner@example.org,Onco,22,Morning,154346,Active
+1401,Jean Hess,Orthopedics,3.42E+12,erikascott@example.com,Pedia,28,Night,142424,On Leave
+1402,Brian Anderson,Pediatrics,8.50E+13,kimtheresa@example.com,Onco,22,Morning,55218,Active
+1403,Catherine Brown,Neurology,1.55E+13,kimberlywright@example.org,Ortho,9,Evening,193468,Active
+1404,Nathan Griffin,Cardiology,18349517907,stanleyalan@example.com,Pedia,39,Morning,103881,On Leave
+1405,John Gibson,Orthopedics,5.32E+13,parkermelissa@example.org,Onco,20,Night,163153,On Leave
+1406,Cathy Rogers,Cardiology,1.37E+15,mosesvalerie@example.org,Ortho,17,Evening,82126,Active
+1407,Amanda Patterson,Cardiology,9.69E+14,hickssamuel@example.org,Cardio,25,Night,103805,Active
+1408,Mrs. Molly Allen,Cardiology,6948424807,reneebaldwin@example.net,Ortho,5,Evening,176504,On Leave
+1409,Melissa Clark,Orthopedics,4287674663,vegasteven@example.com,Cardio,29,Evening,181404,On Leave
+1410,Christie Shannon,Orthopedics,8143649322,briangutierrez@example.com,Pedia,13,Night,70731,Active
+1411,Carrie Cox,Oncology,3.79E+14,icox@example.org,Ortho,30,Night,175366,Active
+1412,Sandra Cardenas,Oncology,1.60E+13,bentleysarah@example.org,Pedia,31,Morning,70917,Active
+1413,Kenneth Cross,Cardiology,2.84E+12,rachel67@example.org,Neuro,27,Evening,132713,On Leave
+1414,Jason Miller,Neurology,5.78E+13,matthewkent@example.com,Pedia,8,Night,175888,On Leave
+1415,Amy Miller,Neurology,7917742738,kristin91@example.org,Neuro,16,Evening,119014,On Leave
+1416,Phillip Rhodes,Orthopedics,4.12E+14,gabriel60@example.com,Neuro,28,Morning,161258,Active
+1417,Ashley Mcmahon,Cardiology,2.96E+12,maria73@example.net,Neuro,35,Morning,183500,Active
+1418,Kaitlin Bailey,Pediatrics,1.85E+15,kayla01@example.org,Ortho,21,Night,73828,On Leave
+1419,Kayla Patel,Neurology,6993514226,zmartinez@example.com,Pedia,18,Night,101051,On Leave
+1420,Robert Lang,Orthopedics,4055116211,benjaminsalinas@example.org,Ortho,9,Night,114176,Active
+1421,James Velazquez,Pediatrics,5.20E+12,speterson@example.org,Neuro,37,Evening,80538,On Leave
+1422,Lisa Abbott,Pediatrics,1.67E+13,cking@example.org,Pedia,17,Evening,60123,On Leave
+1423,Lisa Johnson,Oncology,6586138489,cheryl00@example.com,Neuro,30,Night,100853,Active
+1424,Sara Richards,Cardiology,1.74E+15,award@example.net,Cardio,33,Night,67941,Active
+1425,Amber Schneider,Cardiology,2367124955,shannon39@example.org,Onco,13,Evening,105483,On Leave
+1426,Clayton Leonard,Neurology,1.68E+13,sean30@example.org,Onco,17,Morning,178148,On Leave
+1427,Colleen Jones,Cardiology,6519060673,aaron94@example.com,Cardio,3,Morning,169814,On Leave
+1428,Zachary Shaw,Cardiology,9587,tcox@example.net,Onco,5,Night,105107,On Leave
+1429,Mitchell Miller,Cardiology,5742098684,jasonchristensen@example.net,Onco,23,Evening,110279,On Leave
+1430,Megan Jenkins,Oncology,2487,andersonkeith@example.org,Pedia,16,Night,85688,Active
+1431,Susan Mullins,Orthopedics,9963815172,johnnymiller@example.com,Pedia,32,Morning,191690,On Leave
+1432,Amanda Moore,Cardiology,18843229586,zsmith@example.org,Onco,19,Morning,122242,Active
+1433,Timothy Crosby,Cardiology,1.83E+15,alexshields@example.net,Pedia,8,Evening,191908,Active
+1434,Steven Jones,Pediatrics,9.15E+13,fthompson@example.net,Ortho,26,Night,112067,On Leave
+1435,Valerie Howe,Cardiology,7.68E+14,marshrobert@example.org,Ortho,14,Morning,156901,On Leave
+1436,Sara Thompson,Pediatrics,4.94E+14,andrewmiller@example.net,Neuro,5,Night,159757,On Leave
+1437,John White,Neurology,5.11E+13,raymondgloria@example.com,Ortho,25,Morning,187745,Active
+1438,Benjamin Haley III,Oncology,9736288297,taylorhanson@example.org,Pedia,20,Night,92855,On Leave
+1439,Paula Medina,Oncology,2066,ronaldgordon@example.net,Cardio,34,Morning,158763,On Leave
+1440,Michael Morris,Oncology,5789950517,walkerkimberly@example.org,Ortho,34,Night,155696,Active
+1441,James Miller,Orthopedics,4386950945,acox@example.com,Neuro,22,Evening,194154,On Leave
+1442,Arthur Hicks,Cardiology,2272575120,fayers@example.org,Neuro,14,Evening,65833,Active
+1443,James Ruiz MD,Oncology,9854642924,virginia48@example.net,Neuro,34,Morning,72696,On Leave
+1444,Beverly Chung,Neurology,2.44E+14,obriencharles@example.org,Neuro,16,Night,57443,On Leave
+1445,Michael Perry,Orthopedics,6568677884,sharplauren@example.com,Cardio,23,Evening,167653,Active
+1446,Crystal Middleton,Cardiology,2.87E+12,collinsalexandra@example.com,Neuro,16,Night,129160,On Leave
+1447,Madison Wyatt,Oncology,8667975173,hudsontamara@example.org,Pedia,26,Morning,193335,On Leave
+1448,Patrick David,Neurology,1.39E+15,angelahodge@example.org,Ortho,38,Night,79194,Active
+1449,Richard Pearson,Cardiology,2.34E+12,hmoore@example.com,Cardio,34,Morning,61594,Active
+1450,Gabrielle Mora,Orthopedics,8549851418,tracey49@example.org,Cardio,18,Night,57601,Active
+1451,Donald Young,Neurology,3593561475,jeremyarnold@example.org,Cardio,10,Evening,184949,On Leave
+1452,Daniel Hamilton,Pediatrics,4954894120,gregoryestrada@example.org,Pedia,20,Evening,163139,Active
+1453,Ryan Haas,Cardiology,2.49E+12,scott49@example.org,Cardio,14,Evening,113153,On Leave
+1454,Tamara Huerta,Oncology,1.35E+14,dillon78@example.org,Neuro,4,Night,105189,On Leave
+1455,John Baxter,Pediatrics,2.94E+12,brandonjackson@example.org,Cardio,16,Evening,193086,Active
+1456,Mrs. Michelle Lopez,Oncology,19395022879,shawnhumphrey@example.com,Pedia,28,Evening,162437,On Leave
+1457,Krista Morris,Oncology,1.88E+14,jasongonzalez@example.org,Neuro,24,Morning,140272,On Leave
+1458,Michael Gonzalez,Neurology,5.54E+14,evan79@example.net,Cardio,21,Night,97293,On Leave
+1459,Nicole Thornton,Pediatrics,4703938095,angela06@example.net,Onco,35,Morning,194932,Active
+1460,Joseph Herrera,Oncology,6388429123,ashleybutler@example.com,Onco,33,Morning,100600,On Leave
+1461,Rodney Williams,Pediatrics,8.25E+14,cynthia52@example.org,Pedia,16,Morning,168432,On Leave
+1462,Michael Herrera,Orthopedics,8.42E+12,andradetina@example.com,Ortho,4,Night,108248,On Leave
+1463,Crystal Davis,Neurology,8.82E+14,scott94@example.com,Cardio,26,Evening,167449,On Leave
+1464,Christopher Foster,Cardiology,6.94E+13,ytorres@example.com,Onco,39,Morning,188781,Active
+1465,Kristina Sanchez,Pediatrics,1.80E+13,jesus14@example.com,Pedia,13,Night,91076,On Leave
+1466,Lisa Jackson,Cardiology,6.51E+12,justin86@example.net,Pedia,26,Night,99438,On Leave
+1467,Michael Stevens,Orthopedics,6.37E+12,rushjeffrey@example.org,Neuro,14,Morning,105255,Active
+1468,Nicole Smith,Pediatrics,4.38E+12,michael73@example.com,Cardio,21,Evening,151652,Active
+1469,Travis Gutierrez,Neurology,13538002277,harrisonzachary@example.com,Cardio,21,Night,188057,Active
+1470,Laura Weaver,Cardiology,6.80E+14,charlesking@example.com,Pedia,5,Morning,102040,On Leave
+1471,Amanda Gonzalez,Oncology,3218729343,suarezsierra@example.com,Cardio,15,Evening,118188,On Leave
+1472,Carla Gibbs,Cardiology,3007965627,hernandezjonathan@example.com,Ortho,33,Night,181486,On Leave
+1473,William Evans,Oncology,4.81E+12,olopez@example.com,Pedia,14,Night,170325,On Leave
+1474,Daniel Murray,Pediatrics,4.65E+12,mayryan@example.net,Ortho,15,Night,79294,Active
+1475,Kathryn Rivera,Orthopedics,6.56E+13,melissacruz@example.net,Pedia,13,Night,129302,On Leave
+1476,Brenda Yates,Pediatrics,2762295074,mathisnancy@example.org,Onco,22,Morning,104139,On Leave
+1477,Timothy Ellis,Cardiology,6.00E+14,aprilcannon@example.net,Cardio,8,Evening,97307,On Leave
+1478,Stephanie Mullins,Orthopedics,5018686026,lori45@example.com,Cardio,1,Night,196661,On Leave
+1479,Mckenzie Hill,Oncology,1.95E+15,suzannenichols@example.org,Ortho,26,Evening,134139,Active
+1480,Michelle Bell,Orthopedics,1.33E+14,thodges@example.net,Ortho,16,Morning,141275,Active
+1481,Nathan Williams,Neurology,4.11E+12,amber85@example.org,Neuro,15,Night,194471,On Leave
+1482,Frank Chavez,Neurology,6067333017,donnasnyder@example.com,Onco,39,Night,171607,Active
+1483,Darrell Marshall,Neurology,8.21E+12,whiteheadsara@example.net,Onco,15,Morning,146189,Active
+1484,Mr. James Mendoza MD,Neurology,4875550325,sgolden@example.net,Cardio,19,Evening,161390,Active
+1485,Amanda Bradshaw,Cardiology,5978829562,crystal22@example.net,Onco,31,Night,166199,Active
+1486,Jenny Martin,Pediatrics,9828085368,choistephanie@example.com,Onco,9,Morning,175950,Active
+1487,Laurie Davis,Neurology,3.64E+13,lmiller@example.net,Cardio,2,Night,102850,On Leave
+1488,Gregory Schneider,Orthopedics,1.91E+15,lisayoung@example.org,Ortho,26,Night,136920,Active
+1489,Donna Oliver,Neurology,7.41E+14,louiswalker@example.org,Ortho,30,Evening,63134,Active
+1490,Nathaniel Marshall,Neurology,2026972651,leesusan@example.org,Ortho,3,Evening,183479,Active
+1491,Brandon Adams,Neurology,8098789253,thompsondawn@example.org,Pedia,38,Morning,94640,Active
+1492,Barbara Krause,Orthopedics,1.32E+14,gonzalezjeffrey@example.org,Ortho,24,Morning,158732,On Leave
+1493,Anne Kelly,Orthopedics,1.51E+15,donald14@example.net,Neuro,9,Evening,103971,Active
+1494,Christopher Taylor,Oncology,6904151811,cynthiawang@example.net,Pedia,7,Morning,99708,On Leave
+1495,Sherry Gomez,Neurology,6057193853,lambertsteven@example.org,Neuro,28,Evening,172492,Active
+1496,Daniel Ramirez,Neurology,5.63E+13,clifford05@example.org,Cardio,25,Evening,124907,On Leave
+1497,Patty Huang,Neurology,4.93E+14,sandra29@example.com,Ortho,3,Morning,165468,Active
+1498,Becky Harrison,Pediatrics,3614727890,adavis@example.net,Pedia,8,Night,86986,On Leave
+1499,Anthony Johnson,Pediatrics,1579,zphillips@example.net,Cardio,27,Evening,111088,On Leave
