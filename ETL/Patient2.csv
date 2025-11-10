@@ -1,0 +1,95 @@
+Patient_ID,Name,Age,Gender,Address,Phone,Email,Admission_Date,Blood_Group,Insurance_Status
+,Myra Reddy,0,Male,"912 Station Road, Bengaluru",917490152657,myra.reddy270@example.com,2019-04-20,O-,Uninsured
+PT00271,Aadhya Bose,33,Male,"948 Civil Lines, Kolkata",916141075386,aadhya.bose271@example.com,32-13-2025,A-,Insured
+PT00272,Myra Patel,70,Male,"772 Station Road, Delhi",916604976306,myra.patel272@example.com,2021-04-20,A-,Insured
+PT00273,Ananya Kapoor,39,Male,"719 Station Road, Bengaluru",916145509876,ananya.kapoor273@example.com,2023-02-23,O-,Insured
+PT00274,Ishaan Saxena,16,INVALID,"170 Sector, Chennai",,ishaan.saxena274@example.com,2018-10-12,O+,Uninsured
+PT00275,Aditya Bose,73,Female,"165 Station Road, Delhi",916913457009,aditya.bose275@example.com,2022-02-01,,Insured
+,Krishna Saxena,INVALID,Female,,916764658630,,,A+,Uninsured
+PT00277,Ira Gupta,25,Female,"710 Civil Lines, Chennai",INVALID,ira.gupta277@example.com,2025-02-21,O-,Insured
+PT00278,Vivaan Chandra,37,Female,"336 Civil Lines, Kolkata",918557159168,INVALID,2022-10-26,O+,Insured
+PT00279,,,Female,"900 Civil Lines, Kolkata",919435037623,INVALID,2019-12-24,A-,Insured
+PT00280,Vihaan Bose,39,Male,"327 Civil Lines, Kolkata",916881068063,vihaan.bose280@example.com,2025-06-10,O-,Uninsured
+PT00281,Kabir Kapoor,86,Female,"27 Park, Mumbai",917262912256,kabir.kapoor281@example.com,2025-03-22,A+,Insured
+PT00282,Saanvi Saxena,20,Female,"380 Station Road, Kolkata",917946860718,saanvi.saxena282@example.com,2018-07-13,B+,Insured
+PT00283,Meera Joshi,12,Male,"231 Park, Hyderabad",918403636901,meera.joshi283@example.com,2020-08-04,O+,Uninsured
+PT00284,Diya Malhotra,90,Female,"840 Park, Bengaluru",916442302083,diya.malhotra284@example.com,2023-04-05,AB-,Uninsured
+PT00285,Aadhya Joshi,29,Female,"652 Sector, Kolkata",917603351327,aadhya.joshi285@example.com,2020-02-17,O+,Uninsured
+PT00286,Aarav Kapoor,36,Male,,,aarav.kapoor286@example.com,2023-03-17,B-,Uninsured
+PT00287,Tara Saxena,65,Male,"64 Park, Chennai",916670670299,tara.saxena287@example.com,2022-12-29,B+,Uninsured
+PT00288,Reyansh Verma,42,Female,"187 MG Road, Delhi",919723709830,reyansh.verma288@example.com,2020-04-12,A+,Insured
+PT00289,Ira Gupta,10,Male,"992 Station Road, Chennai",918885757370,ira.gupta289@example.com,2022-11-26,AB-,Uninsured
+PT00290,Vivaan Gupta,46,Female,"337 Park, Bengaluru",,vivaan.gupta290@example.com,32-13-2025,AB-,Uninsured
+PT00291,Saanvi Kumar,30,Male,"618 Park, Bengaluru",918391101019,saanvi.kumar291@example.com,32-13-2025,O-,Uninsured
+PT00292,Shaurya Kapoor,48,Female,"427 Station Road, Bengaluru",919458801442,shaurya.kapoor292@example.com,2023-11-14,O+,Insured
+PT00293,Krishna Mehta,40,Female,"823 Sector, Bengaluru",919565767146,krishna.mehta293@example.com,2019-03-28,AB-,Insured
+PT00294,Shaurya Mehta,41,Male,"509 Park, Chennai",918869403812,INVALID,2018-07-01,AB+,Uninsured
+PT00295,Arjun Mehta,28,Male,"953 MG Road, Bengaluru",INVALID,arjun.mehta295@example.com,2023-08-17,AB-,Uninsured
+,Kavya Reddy,23,Male,"339 Park, Bengaluru",916367256326,kavya.reddy296@example.com,2024-01-08,O+,Insured
+PT00297,Meera Chandra,45,Male,INVALID,919833995777,meera.chandra297@example.com,2023-04-05,B-,Uninsured
+PT00298,Vivaan Patel,55,Male,"824 Sector, Mumbai",,vivaan.patel298@example.com,2023-04-24,B+,Insured
+PT00299,Aisha Kumar,58,Male,"716 Sector, Chennai",918535297494,aisha.kumar299@example.com,2019-01-31,B-,Uninsured
+PT00300,Krishna Joshi,30,Male,"541 MG Road, Mumbai",918680699140,krishna.joshi300@example.com,2020-03-15,B-,Uninsured
+PT00301,Vivaan Kumar,62,Male,INVALID,919698258996,vivaan.kumar301@example.com,2023-03-06,AB+,Uninsured
+PT00302,Ishaan Mehta,0,Female,,919279661909,ishaan.mehta302@example.com,2021-10-19,A-,Uninsured
+???,Saanvi Mehta,57,Male,"137 Park, Kolkata",916782144223,saanvi.mehta303@example.com,2025-07-31,AB-,Uninsured
+PT00304,,39,Male,"891 Station Road, Mumbai",916096504946,,32-13-2025,O-,
+PT00305,Myra Khan,55,Female,"290 MG Road, Hyderabad",917107619174,myra.khan305@example.com,2022-11-17,O-,Uninsured
+,Tara Reddy,59,Male,"287 Sector, Chennai",919585998058,tara.reddy306@example.com,2024-12-16,O-,Insured
+PT00307,Vihaan Kumar,40,Other,"118 Sector, Bengaluru",918968775265,vihaan.kumar307@example.com,2020-03-15,B-,Insured
+PT00308,Ananya Iyer,INVALID,Male,"84 Civil Lines, Bengaluru",919532970821,ananya.iyer308@example.com,,O+,Uninsured
+,Tara Sharma,43,Male,"943 Civil Lines, Hyderabad",,tara.sharma309@example.com,2022-08-28,B-,Insured
+PT00310,Vihaan Chopra,22,Male,"162 Sector, Hyderabad",918136595429,vihaan.chopra310@example.com,2021-11-02,O+,Uninsured
+PT00311,Krishna Nair,29,INVALID,,916587919316,krishna.nair311@example.com,2023-09-06,AB-,Insured
+PT00312,INVALID,45,Male,"834 Park, Chennai",917144601886,meera.nair312@example.com,2019-10-08,B-,Uninsured
+PT00313,Meera Singh,23,Female,"758 Park, Hyderabad",918856310776,meera.singh313@example.com,2019-03-31,O-,Insured
+PT00314,Tara Patel,55,Male,"915 Park, Kolkata",919927369388,tara.patel314@example.com,2019-12-03,B-,Uninsured
+PT00315,,,Male,"831 Park, Chennai",919169830250,arjun.kumar315@example.com,2019-11-24,A-,Uninsured
+,Tara Saxena,40,Male,"301 Park, Chennai",919311359346,tara.saxena316@example.com,2020-03-04,A+,Uninsured
+PT00317,Diya Bhardwaj,54,Male,"196 MG Road, Kolkata",917276128038,diya.bhardwaj317@example.com,2025-08-23,AB-,Uninsured
+PT00318,Krishna Sharma,,Male,"236 MG Road, Hyderabad",918044620897,krishna.sharma318@example.com,32-13-2025,B-,Uninsured
+PT00319,Vivaan Bhardwaj,48,Male,"78 MG Road, Kolkata",918077711671,vivaan.bhardwaj319@example.com,2021-08-05,A+,Uninsured
+PT00320,Aditya Saxena,43,Male,"771 Sector, Delhi",916133930531,aditya.saxena320@example.com,2020-01-21,B+,Uninsured
+PT00321,Ira Nair,50,Other,"500 Sector, Chennai",919635294032,ira.nair321@example.com,2018-12-31,AB+,Insured
+PT00322,Aisha Gupta,12,Female,"491 Civil Lines, Mumbai",918677192904,aisha.gupta322@example.com,2018-06-03,B+,
+PT00323,Ananya Malhotra,1,Male,"305 Station Road, Mumbai",919127546896,ananya.malhotra323@example.com,,A+,Uninsured
+PT00324,Myra Desai,33,Male,"226 Sector, Delhi",919027632188,myra.desai324@example.com,2020-07-27,B-,Uninsured
+,Arjun Khan,22,Male,,919518017666,arjun.khan325@example.com,32-13-2025,AB+,Uninsured
+PT00326,Aarav Iyer,81,Male,"117 MG Road, Kolkata",918983698603,aarav.iyer326@example.com,2021-12-29,A+,Insured
+PT00327,Vivaan Iyer,51,Female,"284 Sector, Chennai",917351181924,vivaan.iyer327@example.com,2020-11-06,B-,Uninsured
+PT00328,Vivaan Gupta,11,Female,"339 Civil Lines, Delhi",918965933624,vivaan.gupta328@example.com,2022-03-01,O-,Uninsured
+PT00329,Saanvi Iyer,43,Male,"225 Station Road, Hyderabad",919257270610,saanvi.iyer329@example.com,2022-12-05,B-,Insured
+PT00330,Shaurya Verma,15,Female,"670 Park, Hyderabad",919260034128,shaurya.verma330@example.com,2022-10-17,B+,Uninsured
+PT00331,Ira Desai,ERROR,Female,"209 Civil Lines, Hyderabad",917072315928,ira.desai331@example.com,2024-11-18,AB+,Uninsured
+PT00332,Saanvi Bhardwaj,,Male,"98 Civil Lines, Chennai",,saanvi.bhardwaj332@example.com,2019-05-04,B+,Uninsured
+PT00333,Kavya Iyer,INVALID,Female,"928 Civil Lines, Hyderabad",918387171097,kavya.iyer333@example.com,2018-09-07,B+,
+,Vivaan Desai,43,Male,"400 Sector, Kolkata",916145796877,vivaan.desai334@example.com,2018-12-01,INVALID,Insured
+PT00335,Shaurya Reddy,INVALID,Male,"697 MG Road, Chennai",916495132487,shaurya.reddy335@example.com,,O-,Insured
+PT00336,Kabir Verma,58,Male,"836 Park, Kolkata",919415967196,kabir.verma336@example.com,2025-03-26,A+,Uninsured
+PT00337,Kabir Chandra,,Female,"624 Park, Delhi",916158946576,kabir.chandra337@example.com,2021-03-28,AB-,Insured
+PT00338,Saanvi Mehta,0,Female,"161 MG Road, Delhi",916987880418,saanvi.mehta338@example.com,2025-04-21,B-,
+PT00339,Vihaan Saxena,21,Female,"192 Park, Hyderabad",917737251798,vihaan.saxena339@example.com,2018-12-30,B-,Insured
+PT00340,Reyansh Desai,63,Male,"48 Civil Lines, Chennai",,,2024-12-19,AB-,
+PT00341,Aadhya Mehta,76,Male,"406 Park, Chennai",918688182993,aadhya.mehta341@example.com,2018-01-16,AB-,Insured
+PT00342,Kavya Joshi,48,Female,"502 Civil Lines, Bengaluru",918645112233,kavya.joshi342@example.com,2021-02-05,AB+,Insured
+PT00343,Reyansh Gupta,41,Male,"425 Park, Kolkata",919430747874,reyansh.gupta343@example.com,2023-03-30,AB+,Insured
+PT00344,Kabir Joshi,59,Male,"48 Park, Delhi",INVALID,kabir.joshi344@example.com,2018-01-29,AB-,Uninsured
+PT00345,Saanvi Khan,30,,"254 Sector, Hyderabad",918060645099,saanvi.khan345@example.com,2019-11-28,AB-,Uninsured
+PT00346,,65,Male,"281 Park, Chennai",,aadhya.kumar346@example.com,2022-11-07,B+,Uninsured
+PT00347,Aisha Verma,,Female,"398 MG Road, Hyderabad",919145083456,aisha.verma347@example.com,2023-08-13,A+,Uninsured
+PT00348,,8,Female,"438 Station Road, Mumbai",917523090573,,2019-01-11,B+,
+PT00349,Diya Chopra,21,Male,INVALID,,diya.chopra349@example.com,2019-03-08,AB-,Uninsured
+PT00350,Aarav Sharma,21,Female,"714 Sector, Mumbai",919909876660,aarav.sharma350@example.com,2023-06-22,A+,Uninsured
+PT00351,Shaurya Desai,5,Other,"353 MG Road, Kolkata",916534455235,shaurya.desai351@example.com,2024-02-13,AB+,Uninsured
+PT00352,Ishaan Patel,18,Female,"814 Park, Delhi",919377326140,ishaan.patel352@example.com,2020-07-27,B-,Insured
+PT00353,Diya Khan,,Female,"328 Civil Lines, Chennai",918580409687,diya.khan353@example.com,,A-,Insured
+PT00354,Ananya Chopra,40,Female,"71 Station Road, Bengaluru",,ananya.chopra354@example.com,2024-03-23,A-,Uninsured
+PT00355,,61,Male,"502 Sector, Kolkata",916516851053,vivaan.singh355@example.com,2018-08-14,AB-,Insured
+PT00356,Aarav Kumar,69,Male,"834 Sector, Hyderabad",916946981081,aarav.kumar356@example.com,2020-07-25,O-,Uninsured
+PT00357,Vihaan Malhotra,49,Female,"783 Station Road, Delhi",919439279620,vihaan.malhotra357@example.com,2022-12-02,,Insured
+PT00358,Aditya Khan,28,Female,"63 Park, Hyderabad",916929104598,aditya.khan358@example.com,2025-06-29,A+,Insured
+PT00359,Saanvi Sharma,85,Other,"762 Park, Delhi",916746874428,saanvi.sharma359@example.com,2023-03-30,AB+,Uninsured
+PT00360,Krishna Kumar,48,Female,"499 Park, Chennai",918212972962,krishna.kumar360@example.com,2025-06-30,O-,Insured
+PT00361,Arjun Singh,43,Female,"12 Civil Lines, Mumbai",919503976607,arjun.singh361@example.com,2020-02-20,A-,
+PT00362,Aditya Joshi,39,Female,"129 Park, Kolkata",919212084092,aditya.joshi362@example.com,2023-07-24,AB+,Uninsured
+PT00363,Saanvi Sharma,37,Female,"961 Sector, Chennai",917140743490,saanvi.sharma363@example.com,2025-05-06,B-,Insured
