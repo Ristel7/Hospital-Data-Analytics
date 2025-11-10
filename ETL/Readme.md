@@ -65,3 +65,14 @@ All files were processed successfully (no errors).
 Total of 749 unique records after merging and cleaning.
 
 Logs confirm each step executed correctly.
+
+
+**Purpose**
+
+The goal of this ETL process is to consolidate healthcare data from multiple sources into one reliable dataset that can be directly used for:
+
+Data analysis in MySQL
+
+Visual reporting in Power BI
+
+Predictive and statistical studies
