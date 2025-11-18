@@ -1,98 +1,135 @@
-📘 Hospital Data Analytics — Jupyter Notebook Overview
+📊 Hospital Data Analytics — Visualization & Insights Notebook
 
-This Jupyter Notebook (Hospital-Data-Analytics.ipynb) contains a complete end-to-end exploratory and statistical analysis of hospital operational data. The notebook combines Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to generate rich visual insights from eight core hospital datasets, including patient records, appointments, treatments, billing, surgery outcomes, doctor performance, insurance details, and feedback.
+This repository contains the enhanced Jupyter Notebook that performs complete data exploration, visualization, and insight generation for the Hospital Data Analytics project.
+The notebook now includes cleaned datasets, 70+ visualizations, detailed EDA, trend analysis, doctor performance insights, cost analysis, and patient demographics interpretation.
 
-The notebook is structured in a step-by-step analytical workflow — starting from data loading and cleaning, followed by univariate, bivariate, multivariate, exploratory, inferential, and comparative analytics. Each section is designed to break down the complexity of hospital data and transform it into meaningful insights for decision-making.
+📁 File Included
+Hospital-Data-Analytics.ipynb
 
-⭐ Key Features of the Notebook
-1. Data Import & Preparation
+A fully updated and extended notebook that now contains:
 
-Loads all eight CSV files into separate Pandas DataFrames
+🧹 1. Data Preparation & Cleaning
 
-Handles missing values and inconsistent formatting
+Handled missing/incorrect values across all 8 tables
 
-Standardizes column names for uniform and error-free analysis
+Converted data types for dates, costs, durations
 
-2. Comprehensive Exploratory Data Analysis (EDA)
+Normalized department, doctor, and procedure names
 
-Summary statistics for all tables
+Removed duplicates and ensured referential consistency
 
-Distribution plots, histograms, KDE curves
+Merged datasets for multi-table insights
 
-Missing value heatmaps
+📊 2. Exploratory Data Analysis (EDA)
 
-Outlier exploration using boxplots
+The notebook performs a complete EDA that covers:
 
-Correlation matrices to identify key relationships
+Demographic Analysis
 
-3. Visual Analytics Across All Tables
+Patient age distribution
 
-Over 80 high-quality visualizations covering themes like:
+Gender composition
 
-Patient demographics
+City/state-wise patient count
 
-Appointment patterns and time trends
+Hospital Operations
 
-Doctor performance and workload distribution
+Appointment trends
 
-Treatment and procedure behavior
+Surgery volume analysis
 
-Billing patterns and revenue segmentation
+Treatment outcomes
 
-Surgery outcomes and success rates
+Patient admissions & bed occupancy
 
-Insurance coverage impact
+Financial Insights
 
-Patient feedback and satisfaction
+Cost distribution
 
-Each visualization is paired with a clear title, labels, and clean aesthetics for easy interpretation.
+Department-wise average expenses
 
-4. Statistical & Inferential Analysis
+Insurance vs. non-insurance comparison
 
-Includes:
+📈 3. Visualization Module (70+ Charts)
 
-Hypothesis testing (t-tests, Chi-square tests, proportion tests)
+The updated notebook now includes all visualizations in clear, high-resolution Matplotlib / Seaborn charts, such as:
 
-A/B testing scenarios such as:
+Patient-Level Charts
 
-Male vs Female treatment cost
+Age histogram
 
-MRI vs X-Ray waiting times
+Gender countplot
 
-Insurance vs Non-insurance billing differences
+Insurance vs. non-insurance pie chart
 
-P-values and significance decisions included
+Patient visits over time
 
-5. Time-Series and Trend Analysis
+Doctor & Department Insights
 
-Monthly and yearly trends for appointments
+Doctor experience distribution
 
-Revenue growth curves
+Doctor-wise total appointments
 
-Seasonal patterns in hospital operations
+Department performance comparison
 
-6. Multivariate Analysis
+Success rate of treatments
 
-Scatterplots with hue grouping
+Operational Analytics
 
-Pairplots connecting multiple variables
+Daily / monthly appointment trends
 
-Cross-tabulation and stacked bar insights
+Treatment type breakdown
 
-7. Insights & Interpretation
+Surgery distribution
 
-Throughout the notebook, every visualization is followed by short insight paragraphs that explain what the chart reveals about hospital performance — making the notebook informative even for non-technical viewers.
+Length-of-stay heatmaps
 
-🧰 Core Technologies Used
+Financial Visualizations
 
-Python
+Treatment cost boxplots
 
-Pandas
+Cost correlation heatmaps
 
-NumPy
+Top 10 highest cost procedures
 
-Matplotlib
+Each chart is accompanied by an explanation and key insight, making the notebook useful for presentations, stakeholders, and dashboards.
 
-Seaborn
+🧠 4. Insight Narratives Added
 
-Jupyter Notebook
+The updated notebook now provides:
+
+Key observations for every visualization
+
+Patterns, anomalies, and trends
+
+Business interpretations
+
+Healthcare performance indicators
+
+Actionable recommendations
+
+These insights transform raw visualizations into meaningful analytical findings.
+
+🎯 5. Purpose of This Notebook
+
+This notebook serves as a complete analytical report, helpful for:
+
+Academic submissions
+
+Portfolio showcase
+
+Dashboard development
+
+Healthcare analytics case studies
+
+Machine learning preprocessing
+
+📝 Summary
+
+The updated notebook now provides a full 360° analytical view of hospital operations using Python. It includes:
+
+✔ Clean datasets
+✔ 70+ visualizations
+✔ Detailed insights
+✔ Operational + financial analysis
+✔ Professional-grade EDA
