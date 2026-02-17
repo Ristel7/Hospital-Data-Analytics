@@ -1,5 +1,4 @@
-# Hospital-Data-Analytics
-Comprehensive Hospital Data Analytics project using Excel, MySQL, and Power BI. Includes data cleaning, SQL queries, A/B testing, descriptive &amp; inferential analysis, and interactive dashboards for patient care, doctor performance, billing, and operations insights.
+**🏥 Hospital Data Analytics Project**
 
-
-
+An end-to-end Hospital Data Analytics project that transforms raw healthcare data into actionable insights using ETL, SQL, Python, and Power BI.
+This repository demonstrates a complete analytics workflow — from messy datasets to decision-ready dashboards.
